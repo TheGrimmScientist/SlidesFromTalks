@@ -24,11 +24,11 @@ digraph Tree {
 9 -> 11 ;
 12 [label="petal length (cm) <= 4.8500\nentropy = 0.151096970517\nsamples = 46", shape="box"] ;
 2 -> 12 ;
-13 [label="sepal length (cm) <= 5.9500\nentropy = 0.918295834054\nsamples = 3", shape="box"] ;
+13 [label="sepal width (cm) <= 3.1000\nentropy = 0.918295834054\nsamples = 3", shape="box"] ;
 12 -> 13 ;
-14 [label="entropy = 0.0000\nsamples = 1\nvalue = [ 0.  1.  0.]", shape="box"] ;
+14 [label="entropy = 0.0000\nsamples = 2\nvalue = [ 0.  0.  2.]", shape="box"] ;
 13 -> 14 ;
-15 [label="entropy = 0.0000\nsamples = 2\nvalue = [ 0.  0.  2.]", shape="box"] ;
+15 [label="entropy = 0.0000\nsamples = 1\nvalue = [ 0.  1.  0.]", shape="box"] ;
 13 -> 15 ;
 16 [label="entropy = 0.0000\nsamples = 43\nvalue = [  0.   0.  43.]", shape="box"] ;
 12 -> 16 ;
