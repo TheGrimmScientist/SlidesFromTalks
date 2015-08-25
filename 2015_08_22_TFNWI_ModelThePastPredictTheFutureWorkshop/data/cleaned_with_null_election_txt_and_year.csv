@@ -1,0 +1,868 @@
+election_txt,election_year,candidate_name,committee_name,party_affiliation,total,total_spent,grassroots,instate
+2014 General Election,2014,Lew Frederick,Friends of Lew Frederick,Working Families,143732.39,148429.57,0.198168,0.799444
+2014 General Election,2014,Lew Frederick,Friends of Lew Frederick,Democrat,143732.39,148429.57,0.198168,0.799444
+2014 General Election,2014,Paul Evans,Friends of Paul Evans,Democrat,539519.94,214678.18,0.0641217,0.940374
+2014 General Election,2014,Michael Dembrow,Friends of Michael Dembrow,Working Families,231547.07,241130.19,0.172494,0.741598
+2014 General Election,2014,Elizabeth Steiner Hayward,Friends of Elizabeth Steiner Hayward,Democrat,323662.42,293871.45,0.0455983,0.653157
+2014 General Election,2014,Alissa Keny-Guyer,Friends of Alissa Keny-Guyer,Democrat,208296.56,190444.38,0.179007,0.620155
+2014 General Election,2014,Tina Kotek,Friends of Tina Kotek,Working Families,1249455.51,1190925.44,0.0249647,0.796248
+2014 General Election,2014,David Gomberg,Gomberg for State Rep,Democrat,264267.55,169125.83,0.0749559,0.866515
+2014 General Election,2014,Peter Courtney,Peter Courtney for State Senate,Working Families,976064.85,880116.669999999,0.00614905,0.87144
+2014 General Election,2014,John Kitzhaber,Kitzhaber for Governor,Democrat,5561122.21999999,6310467.08000001,0.0514097,0.769173
+2014 General Election,2014,Lee Beyer,Friends of Lee Beyer,Democrat,271766.23,225339.97,0.0060162,0.798871
+2014 General Election,2014,Floyd Prozanski,Friends for Floyd Prozanski,Working Families,130451.32,99390.96,0.0316717,0.840886
+2014 General Election,2014,Richard Devlin,Friends of Richard Devlin,Working Families,548441.01,347097.67,0.00518467,0.89755
+2014 General Election,2014,Kathleen Taylor,Kathleen Taylor for Oregon,Democrat,189189.4,200501.47,0.0885754,0.57755
+2014 General Election,2014,Alan Bates,Committee to Elect Dr. Alan Bates,Working Families,817763.65,624990.98,0.0498875,0.882127
+2014 General Election,2014,Stephanie Nystrom,Friends of Stephanie Nystrom,Democrat,93353.42,66723.02,0.268712,0.77647
+2014 General Election,2014,Ann Lininger,Friends of Ann Lininger,Democrat,168034.1,143384.55,0.0734435,0.891032
+2014 General Election,2014,Wanda Davis,Friends of Wanda Davis,Democrat,35741.28,28530.04,0.131945,0.893292
+2014 General Election,2014,Susan McLain,Friends of Susan McLain,Democrat,688340.1,219365.32,0.0411735,0.940138
+2014 General Election,2014,Chuck Riley,Friends of Chuck Riley,Working Families,951146.33,261393.02,0.0336077,0.881898
+2014 General Election,2014,Chuck Riley,Friends of Chuck Riley,Democrat,951146.33,261393.02,0.0336077,0.881898
+2014 General Election,2014,Barbara Smith Warner,Team BSW,Democrat,112641.87,104889.26,0.177107,0.784784
+2014 General Election,2014,Brian Clem,Oregonians for Clem,Working Families,318271.29,273025.13,0.0400463,0.884401
+2014 General Election,2014,Ken Moore,Friends of Ken Moore,Democrat,95655.9,102590.22,0.299388,0.671484
+2014 General Election,2014,Mark Richman,Friends of Mark Richman,Republican,431557.23,434583.45,0.00824294,0.929133
+2014 General Election,2014,Jodi Bailey,Friends of Jodi Bailey,Republican,298429.08,200055.99,0.0150489,0.973703
+2014 General Election,2014,Kim Thatcher,Friends of Kim Thatcher,Republican,165729.76,202271.72,0.0522761,0.800079
+2014 General Election,2014,John Verbeek,Verbeek for State Senate,Republican,3004.63,3860.13,0.0568205,0.943179
+2014 General Election,2014,John Verbeek,Verbeek for State Senate,Republican,3004.63,3860.13,0.0568205,0.943179
+2014 General Election,2014,Karen Ostrye,Committee to Retain Judge Karen Ostrye,Nonpartisan,24015.71,21147.82,0.420881,0.644372
+2014 General Election,2014,Jackie Winters,Friends of Jackie Winters,Republican,398667.34,403816.43,0.0279253,0.776254
+2014 General Election,2014,John Davis,John Davis For Oregon,Republican,436042.12,406041.14,0.0415886,0.839895
+2014 General Election,2014,Dennis Richardson,Citizens to Elect Dennis Richardson,Republican,3150741.32,2295206.91,0.115776,0.860811
+2014 General Election,2014,Chuck Thomsen,Friends of Chuck Thomsen,Republican,424263.12,401645.27,0.0326553,0.81169
+2014 General Election,2014,Matt Geiger,Matt Geiger for Oregon,Republican,163621.36,127845.4,0.0298106,0.958001
+2014 General Election,2014,Dave Dotterrer,Citizens for Dave Dotterrer,Republican,770376.98,684654.099999999,0.0188344,0.920747
+2014 General Election,2014,Alan R Olsen,Alan Olsen for Oregon Senate Committee,Republican,568449.05,477079.39,0.0123164,0.840926
+2014 General Election,2014,Bill Post,Friends of Bill Post,Republican,265706.35,249650.51,0.0804667,0.919824
+2014 General Election,2014,Margaret Doherty,Friends of Margaret Doherty,Democrat,202107.39,188556.77,0.055178,0.809615
+2014 General Election,2014,Cedric Hayden,Hayden for Oregon,Republican,213032.17,285561.56,0.0186236,0.953732
+2014 General Election,2014,Bill Beckers,Bill Beckers for HD 49,Republican,750,725,1,
+2014 General Election,2014,Lew Frederick,Friends of Lew Frederick,Working Families,143732.39,148429.57,0.198168,0.799444
+2014 General Election,2014,Lew Frederick,Friends of Lew Frederick,Democrat,143732.39,148429.57,0.198168,0.799444
+2014 General Election,2014,Jackie Winters,Friends of Jackie Winters,Republican,398667.34,403816.43,0.0279253,0.776254
+2014 General Election,2014,Brenden King,Brenden King for Oregon,Libertarian,1498.75,28.71,0.799833,0.47623
+2014 General Election,2014,Gerritt Rosenthal,Friends of Gerritt,Democrat,145060.58,30106.51,0.0473393,0.909648
+2014 General Election,2014,Cheryl Pellegrini,Committee to Keep Judge Pellegrini,Nonpartisan,1100,2172.91,0.454545,0.818182
+2014 General Election,2014,Kelsie McDaniel,Committee to Elect District Attorney Kelsie McDaniel,Nonpartisan,2008.17,1456.21,0.0637396,0.93626
+2014 General Election,2014,Gregory F Silver,Committee to Retain Judge Silver,Nonpartisan,3200,3100,,
+2014 General Election,2014,Mike Nearman,Nearman4Oregon,Republican,254458.82,371381.26,0.0249448,0.967765
+2014 General Election,2014,Heidi Van Schoonhoven,Heidi for the House,Democrat,100,,1,
+2014 General Election,2014,Jacob D Vandever,The Committee to Elect Jacob Vandever,Republican,3168.27,1841.38,0.49468,0.719935
+2014 General Election,2014,Christopher P Gergen,Oregon For All of Us,Republican,5480.88,4735.88,0.060156,0.843689
+2014 General Election,2014,Jim Weidner,Citizens for Jim Weidner,Republican,156626.05,181703.18,0.0352763,0.642108
+2014 General Election,2014,Duane A Stark,Friends of Duane Stark,Republican,58843.1,58979.2,0.0965296,0.844245
+2014 General Election,2014,Steve Newgard,Friends of Steve Newgard,Republican,972687.43,723982.96,0.0077085,0.918439
+2014 General Election,2014,Bill Post,Friends of Bill Post,Republican,265706.35,249650.51,0.0804667,0.919824
+2014 General Election,2014,Bruce Starr,Bruce Starr for State Senate Committee,Republican,1654297.25,1560548.94,0.0328835,0.868933
+2014 General Election,2014,Kim Thatcher,Friends of Kim Thatcher,Republican,165729.76,202271.72,0.0522761,0.800079
+2014 General Election,2014,Dan Mason,Friends of Dan Mason,Republican,514500.25,616117.1,0.0181457,0.912191
+2014 General Election,2014,Greg Barreto,Barreto for HD 58,Republican,250815.01,236301.49,0.12536,0.850725
+2014 General Election,2014,Betty Komp,Elect Betty Komp,Democrat,734347.12,434231.29,0.0415577,0.910624
+2014 General Election,2014,Craig Wilhelm,Elect Craig Wilhelm,Democrat,281186.35,124131.59,0.0779457,0.847003
+2014 General Election,2014,Chuck Thomsen,Friends of Chuck Thomsen,Republican,424263.12,401645.27,0.0326553,0.81169
+2014 General Election,2014,Nancy Nathanson,Friends of Nancy Nathanson,Democrat,193462.52,179157.95,0.102696,0.806489
+2014 General Election,2014,Mike McLane,Committee to Elect Mike McLane,Republican,919374.58,942902.65,0.0141047,0.812818
+2014 General Election,2014,Dallas Heard,Friends of Dallas Heard,Republican,96737.88,85458.3200000001,0.0275098,0.903508
+2014 General Election,2014,Dan Rayfield,Friends of Dan Rayfield,Democrat,102794.5,104321.82,0.136791,0.850611
+2014 General Election,2014,Mitch Greenlick,Mitch Greenlick for State Legislature,Democrat,119366.05,125996.89,0.0124828,0.942452
+2014 General Election,2014,Chris Edwards,Friends of Chris Edwards,Democrat,141043.69,157782.28,0.00479,0.875105
+2014 General Election,2014,Lee Beyer,Friends of Lee Beyer,Democrat,271766.23,225339.97,0.0060162,0.798871
+2014 General Election,2014,Kyle Markley,Kyle Markley for Oregon,Libertarian,48980.3,28633.46,,
+2014 General Election,2014,Kyle Markley,Kyle Markley for Oregon,Libertarian,48980.3,28633.46,,
+2014 General Election,2014,Mitch Greenlick,Mitch Greenlick for State Legislature,Democrat,119366.05,125996.89,0.0124828,0.942452
+2014 General Election,2014,Timothy MB Farrell,Tim PAC,Nonpartisan,5055,5898.35,0.192878,0.566766
+2014 Primary Election,2014,Ted Roe,Committee to Elect Ted Roe,Democrat,1331.32,2626.15,0.618321,0.305344
+2014 Primary Election,2014,James Owens,Owens For Oregon,Republican,13100,9979.17,0.0381679,0.541985
+2014 Primary Election,2014,Kathleen O'Brien,Kathleen O'Brien OBRIEN42,Democrat,13597.74,12011.8,0.374219,0.546404
+2014 Primary Election,2014,Deborah Barnes,Friends of Deb Barnes,Democrat,200044.45,61750.51,0.0427881,0.951954
+2014 Primary Election,2014,Jack H Swift,Citizens for Jack Swift,Republican,1000,1143.7,0.5,0.7
+2014 Primary Election,2014,Joe Rowe,Committee to Elect Joe Rowe,Democrat,1675,1885,0.820895,0.179104
+2014 Primary Election,2014,Jim Carpenter,Elect Jim Carpenter,Nonpartisan,4525.95,4959.54,0.330351,0.780124
+2014 Primary Election,2014,Chris Garrett,Friends of Chris Garrett,Democrat,176901.33,191753.27,0.0106799,0.827847
+2014 Primary Election,2014,Joel DeVore,Committee to Re-Elect Judge DeVore,Nonpartisan,3100,,0.0322581,0.967742
+2014 Primary Election,2014,Barbara Jensen,Friends of Barbara Jensen,Republican,117554.68,105165.63,0.0243924,0.837502
+2014 Primary Election,2014,William Francis,Committee to Elect William Francis Circuit Court Judge,Nonpartisan,200,2397.07,1,1
+2014 Primary Election,2014,Brian Tosky,Friends of Brian Tosky,Democrat,203246.34,153682.28,0.0324226,0.888944
+2014 Primary Election,2014,Ann Marie Simmons,Retain Judge Simmons,Nonpartisan,9191.71,12950.15,0.529412,0.464706
+2014 Primary Election,2014,John Turner,Friends of John Turner,Republican,130705,164096.85,0.0900251,0.925803
+2014 Primary Election,2014,Jason Yurgel,Friends of Jason Yurgel,Democrat,5180,4020.59,0.125483,0.903475
+2014 Primary Election,2014,Martha L Walters,Committee to Reelect Justice Martha L Walter,Nonpartisan,3100,100,,1
+2014 Primary Election,2014,John Hummel,Vote Hummel,Nonpartisan,87102.69,69910.01,0.328908,0.688213
+2014 Primary Election,2014,Cynthia L Beaman,Committee to Re-Elect Judge Cynthia Beaman,Nonpartisan,11543.19,14003.77,0.478085,0.599083
+2012 General Election,2012,Arnie Roblan,Friends of Arnie Roblan,Working Families,1280990.1,977508.009999998,0.0205112,0.902311
+2014 Primary Election,2014,Ladd J Wiles,Ladd Wiles for Judge,Nonpartisan,7675,14878.27,0.596091,0.47557
+2012 General Election,2012,Jackie Dingfelder,Friends of Jackie Dingfelder,Working Families,54057.65,80702.86,0.0883534,0.906045
+2012 General Election,2012,Val Hoyle,Friends of Val Hoyle,Democrat,1209865.29,1137942.39,0.0247569,0.811773
+2012 General Election,2012,Jeff Barker,Friends of Jeff Barker,Working Families,534388.73,343825.47,0.0206585,0.885356
+2012 General Election,2012,Carolyn Tomei,Carolyn Tomei for State Representative,Working Families,66060.36,83996.9700000001,0.171939,0.792866
+2012 General Election,2012,Carl Hosticka,Friends of Carl Hosticka,Working Families,778884.91,219841.26,0.0567447,0.954518
+2012 General Election,2012,Ted Wheeler,Friends of Ted Wheeler,Working Families,551274.46,443071.53,0.0295541,0.811046
+2012 General Election,2012,Laurie Monnes Anderson,Friends of Laurie Monnes Anderson,Working Families,1003293.22,791985.829999999,0.030752,0.895438
+2012 General Election,2012,Diane Rosenbaum,Rosenbaum for Senate (Diane),Working Families,410423.62,355928.52,0.00329346,0.894613
+2012 General Election,2012,John Huddle,Friends of John Huddle,Democrat,15118.25,10249.71,0.309741,0.820997
+2012 General Election,2012,Bob Jenson,Committee to Re-Elect Bob Jenson,Republican,130324.52,126764.39,0.0178913,0.89054
+2012 General Election,2012,Brian Zanotelli,Zanotelli For Judge Committee,Nonpartisan,7134.59,4750,0.266667,0.511111
+2012 General Election,2012,Robert Wolfe,Robert Wolfe Committee,Progressive,27350,13803.2,0.00914077,0.0402194
+2012 General Election,2012,Lung S Hung,Vote Judge Hung,Nonpartisan,16007.01,20282.28,0.510053,0.613464
+2012 General Election,2012,Tim Knopp,Tim Knopp for State Senate,Republican,927180.46,916530.659999999,0.0139447,0.8641
+2012 General Election,2012,Mark Hass,Friends of Mark Hass,Independent,331349.98,311104.110000001,0.0336883,0.821762
+2012 General Election,2012,Laurie Monnes Anderson,Friends of Laurie Monnes Anderson,Working Families,1003293.22,791985.829999999,0.030752,0.895438
+2012 General Election,2012,Jim Welsh,Friends of Jim Welsh,Constitution,7497.44,8397.18,0.641292,0.483788
+2012 General Election,2012,Paul Holman,Vote Paul,Democrat,8285.65,8233.3,0.0443575,0.955643
+2012 General Election,2012,Vic Gilliam,Friends of Vic Gilliam,Democrat,412781.36,411257.04,0.0226359,0.812954
+2012 General Election,2012,Ted Ferrioli,Friends of Ted Ferrioli,Democrat,671942.92,679088.379999999,0.000778175,0.732173
+2012 General Election,2012,Antone Minthorn,Friends of Antone Minthorn,Democrat,8130.94,9396.07,0.423812,0.597157
+2012 General Election,2012,Suzanne Gallagher,Gallagher for Oregon,Republican,70084.99,38743.23,0.190393,0.831008
+2012 General Election,2012,Jon Lieuallen,Committee to Elect Jon Lieuallen Judge,Nonpartisan,10334.93,11365.16,0.199638,0.914048
+2012 General Election,2012,Norman R Hill,Retain Judge Hill,Nonpartisan,58143.75,36863.7,0.380544,0.653103
+2012 General Election,2012,David Orr,Justice Without Politics,Nonpartisan,14827.09,17293.04,,1
+2012 General Election,2012,John A Olson,Committee to Elect John Olson Judge,Nonpartisan,16133.53,10491.06,0.289352,0.710648
+2012 General Election,2012,Lynn W Hampton,Keep Judge Hampton Committee,Nonpartisan,33704.07,4483.77,0.0666655,0.979988
+2012 General Election,2012,Dan Farrington,Friends of Dan Farrington,Republican,103466.84,69524.11,0.12244,0.914747
+2012 General Election,2012,Jerome Grant,Committee To Elect Jerome Grant,Republican,32897.77,39009.5,0.0416778,0.918685
+2012 General Election,2012,Ross Swartzendruber,Friends of Ross,Democrat,3455,2399.87,0.199711,0.800289
+2012 General Election,2012,Kathy LeCompte,Friends of Kathy LeCompte,Republican,398112.15,351881.42,0.0265352,0.969333
+2012 General Election,2012,Claudia Kyle,Friends of Claudia Kyle,Democrat,162487.57,102748.04,0.0987993,0.785688
+2012 General Election,2012,Eldon Rollins,Intrepid Allies of Eldon Rollins,Democrat,1556.7,1936.8,0.454148,0.545852
+2012 General Election,2012,Annette Frank,Campaign to Elect Annette Frank,Democrat,5246.74,2839.24,0.266356,0.666128
+2012 General Election,2012,Beth Bagley,Bagley for Judge Committee,Nonpartisan,35681.92,31444.07,0.289086,0.286621
+2012 General Election,2012,Bill Hansell,Friends of Bill Hansell,Republican,295788.79,306034.89,0.0701602,0.778494
+2012 General Election,2012,Ellen Rosenblum,Elect Ellen Rosenblum for Attorney General,Democrat,1228173.05,1417975.56,0.122457,0.465587
+2012 General Election,2012,Nena Cook,Nena Cook for Oregon Supreme Court,Nonpartisan,254054.09,252175.54,0.252714,0.468738
+2012 General Election,2012,Ginny Burdick,Friends of Ginny Burdick,Democrat,174927.9,182252.61,0.0186579,0.772972
+2012 General Election,2012,Vicki Berger,Friends of Vicki Berger,Republican,127743.56,135635,0.112523,0.622273
+2012 General Election,2012,Sandra A Abercrombie,Friends of Sandra Abercrombie,Republican,1514.49,1757.54,0.0788165,0.921184
+2012 General Election,2012,Patrick Sheehan,Friends of Patrick Sheehan,Republican,578094.68,530748.04,0.0134471,0.882722
+2012 General Election,2012,Nancy Brouhard,Vote Nancy Brouhard,Republican,34969.19,24721.6,0.160807,0.876395
+2012 General Election,2012,Manuel Castaneda,Friends of Manuel Castaneda,Republican,359309.59,264298.71,0.0415658,0.798793
+2012 General Election,2012,Richard C Baldwin,Elect Judge Baldwin,Nonpartisan,413324.23,381137.92,0.175321,0.882792
+2012 General Election,2012,Arnie Roblan,Friends of Arnie Roblan,Working Families,1280990.1,977508.009999998,0.0205112,0.902311
+2012 General Election,2012,Bruce Neal,Bruce Neal for Oregon,Republican,3358.95,3302.16,0.580265,0.217562
+2012 General Election,2012,Matthew Wand,Matt Wand for East County,Republican,685864.82,600037.699999999,0.0183128,0.879119
+2012 General Election,2012,Scott Roberts,Friends of Dr. Scott Roberts,Republican,562074.05,221376.56,0.0110128,0.989699
+2012 General Election,2012,Gary Coe,Gary Coe for State Senate,Republican,499278.49,90824.07,0.0237498,0.973285
+2012 General Election,2012,Shawn Lindsay,Friends of Shawn Lindsay,Republican,546249.16,539711.95,0.0239099,0.86525
+2012 General Election,2012,Katie Eyre,Friends of Katie Eyre ,Republican,678209.37,636984.77,0.00737576,0.883717
+2012 Primary Election,2012,Maryl Graybeal Featherstone,Friends of Maryl Graybeal Featherstone,Republican,152256.27,155025.57,0.0575789,0.931512
+2012 Primary Election,2012,Tom Cutsforth,Tom Cutsforth for District Attorney,Nonpartisan,7469.7,8697.9,0.112903,0.0806452
+2012 Primary Election,2012,Eli Stephens,Committee in Support of Eli F Stephens,Republican,2101.2,3842.15,0.190939,0.809061
+2012 Primary Election,2012,Dwight Holton,Holton for Oregon,Democrat,804206.81,875827.32,0.0681555,0.477725
+2012 Primary Election,2012,Everett Dial,Committee to Re-Elect Everett Dial,Nonpartisan,3649,2555.16,0.0274048,0.972595
+2012 Primary Election,2012,Aaron Felton,Felton For District Attorney,Nonpartisan,24233.77,18181.76,0.430742,0.581141
+2012 Primary Election,2012,Stan Butterfield,Friends of Butterfield,Nonpartisan,25420,18343.09,0.590317,0.502793
+2012 Primary Election,2012,Sharon Meieran,Sharon Meieran for State Representative,Democrat,138737.51,140302.69,0.190899,0.536437
+2012 Primary Election,2012,Karen Bowerman,Karen Bowerman for City Council,Nonpartisan,6286.64,9829.85,0.57529,0.579151
+2012 Primary Election,2012,Karl Scronce,Committee to Elect Karl Scronce,Republican,19093,19189.04,0.177709,0.829362
+2012 Primary Election,2012,Tracey Liskey,Friends of Tracey Liskey,Republican,43996.25,45224.43,0.259192,0.802547
+2012 Primary Election,2012,Chris Telfer,Committee to Elect Chris Telfer,Republican,166960.48,138585.19,0.0934276,0.834731
+2012 Primary Election,2012,Rod Underhill,Friends of Rod Underhill,Nonpartisan,133082.52,111073.56,0.17409,0.818098
+2012 Primary Election,2012,Katie Riley,Friends of Katie Riley,Democrat,73492.08,43627.56,0.186259,0.838514
+2012 Primary Election,2012,Daniel O Norris,Friends of Dan Norris,Nonpartisan,15852.64,14336.91,0.465007,0.430104
+2012 Primary Election,2012,Alex Gardner,Alex Gardner for DA,Nonpartisan,15063.63,14635.52,0.316325,0.730145
+2012 Primary Election,2012,Matt Wingard,Friends of Matt Wingard,Republican,90989.62,126535.32,0.0837508,0.731189
+2010 General Election,2010,Sara Byers,Friends of Sara Byers,Independent,,,,
+2010 General Election,2010,Cheryl Myers,Friends of Cheryl Myers,Democrat,23553.1,15453.65,0.00286926,0.997131
+2010 General Election,2010,Alice Norris,Friends of Alice Norris,Working Families,36907.31,47676.01,0.00373554,0.996264
+2010 General Election,2010,Marilyn Kittelman,Kittelman for Senate,Independent,100,,1,1
+2010 General Election,2010,Rob Wheeler,Friends of Rob Wheeler,Republican,120.76,16552.82,,1
+2010 General Election,2010,Susan Sokol Blosser,Friends of Susan Sokol Blosser,Independent,20178.72,24781.82,,1
+2010 General Election,2010,Michael Wynhausen,Michael Wynhausen for Linn County Judge,Nonpartisan,350,921,1,
+2010 General Election,2010,Ben Cannon,Friends of Ben Cannon,Working Families,50,6768.41,1,
+2010 General Election,2010,Suzanne VanOrman,Vote VanOrman,Democrat,14963.58,13614.08,,1
+2010 General Election,2010,Marilyn Kittelman,Kittelman for Senate,Independent,100,,1,1
+2010 General Election,2010,Bill Garrard,Committee to Elect Bill Garrard,Republican,3200.34,31628.72,0.0130375,0.222863
+2010 General Election,2010,Jean Cowan,Cowan for State Rep,Democrat,7368.25,17103.74,0.0644897,0.953296
+2010 General Election,2010,Rose Cook,Friends of Rose Cook,Republican,210,101.97,,
+2010 General Election,2010,Jackie Pierce,Jackie Pierce for Senate District 10,Democrat,,1201.38,,
+2010 General Election,2010,Doug Ainge,Friends of Doug Ainge,Democrat,13098.78,1767.68,,1
+2010 General Election,2010,Susan Sokol Blosser,Friends of Susan Sokol Blosser,Independent,20178.72,24781.82,,1
+2010 General Election,2010,Elizabeth Terry Beyer,Friends of Terry Beyer,Democrat,9562,60085.3,,0.654884
+2010 General Election,2010,Tyler Hill,Friends of Tyler Hill,Republican,,621.76,,
+2010 General Election,2010,Diane Schendel,Friends of Diane Schendel,Republican,,282.12,,
+2010 General Election,2010,Russell Turner,Friends of Russell Turner,Republican,,201.3,,
+2010 General Election,2010,Hugo Schulz,Friends of Hugo Schulz,Republican,1979.62,48733.85,,
+2010 General Election,2010,Simone Gordon,Simone Gordon for State Representative,Republican,,959.54,,
+2010 General Election,2010,Rose Cook,Friends of Rose Cook,Republican,210,101.97,,
+2010 General Election,2010,Chris Dudley,Friends of Chris Dudley,Republican,21115.01,164793.05,0.279176,0.146453
+2010 General Election,2010,Anne Marie Gurney,Friends of Anne Marie Gurney,Republican,,404.85,,
+2010 General Election,2010,Mary Kremer,Friends of Mary Kremer,Republican,803.93,16350.95,,1
+2010 General Election,2010,Rob Wheeler,Friends of Rob Wheeler,Republican,120.76,16552.82,,1
+2010 General Election,2010,Chris Harker,Friends of Chris Harker,Democrat,79030.97,87510.9400000001,0.120262,0.789641
+2010 Primary Election,2010,Rick Metsger,Friends of Rick Metsger,Democrat,2395.05,30610.95,0.0425532,0.957447
+2010 Primary Election,2010,Suzanne Upton,Re-Elect Judge Suzanne Upton,Nonpartisan,,1650,,
+2010 Primary Election,2010,Dean Kegler,Dean Kegler for Judge,Nonpartisan,,125.45,,
+2010 Primary Election,2010,Chael Sonnen,Friends of Chael Sonnen,Republican,,128.17,,
+2010 Primary Election,2010,Michael Mathisen,Vote Mike Mathisen Committee,Republican,2094.93,,0.0430863,0.956914
+2010 Primary Election,2010,Joelle Davis,Friends of Joelle Davis,Democrat,728.84,1790.88,,
+2010 Primary Election,2010,Joelle Davis,Friends of Joelle Davis,Democrat,728.84,1790.88,,
+2010 Primary Election,2010,John Swanson,Friends of John Swanson (HD51),Republican,5396.67,2500,,1
+2010 Primary Election,2010,Susan Castillo,Susan Castillo for Superintendent of Public Instruction,Nonpartisan,,2319.59,,
+2010 Primary Election,2010,Bill Bradbury,Friends of Bill Bradbury,Democrat,47534.97,32553.59,0.369922,0.662016
+2010 Primary Election,2010,William Marshall,Bill Marshall for Judge,Nonpartisan,,1785,,
+2010 Primary Election,2010,Allen Alley,Friends of Allen Alley,Republican,7320.49,26423.14,0.0284495,1
+2008 General Election,2008,Scott Bruun,Scott Bruun for State Representative,Republican,,4253.37,,
+2008 General Election,2008,Richard Riggs,Friends of Richard Riggs,Democrat,,301.16,,
+2008 General Election,2008,David Nelson,Friends of David Nelson,Republican,32447.92,84844.2,0.00971456,0.727109
+2008 General Election,2008,Ben Talley,Committee to Elect Ben Talley,Democrat,400,,,
+2008 General Election,2008,Joe Charter,Charter for Circuit Court Committee,Nonpartisan,6311.24,,,
+2008 General Election,2008,John Nelsen,Friends of John Nelsen,Republican,9536.08,4949.25,0.0374746,0.962525
+2008 General Election,2008,Linda Flores,Friends of Linda Flores,Republican,,475,,
+2008 General Election,2008,Jessica Adamson,Friends of Jessica Adamson,Democrat,10.03,270,1,
+2008 General Election,2008,Larry Galizio,Friends of Larry Galizio,Democrat,,,,
+2008 General Election,2008,Joanne Verger,Joanne Verger for Oregon State Legislature,Democrat,13370.86,21085.75,0.00405893,0.732862
+2008 General Election,2008,George Gilman,Gilman Campaign,Republican,,167.45,,
+2008 Primary Election,2008,Marc Lucca,Friends of Marc Lucca,Republican,4934.34,1144.83,,
+2008 Primary Election,2008,Jeff Duyck,Friends of Jeff Duyck,Republican,,2007.48,,
+2008 Primary Election,2008,Mark Huddleston,Committee to Re-Elect Mark Huddleston,Nonpartisan,,1788.33,,
+2008 Primary Election,2008,John Norton,Friends of John Norton,Nonpartisan,7590,,,
+,,John Rachor,Friends of John Rachor,Republican,25569.72,12091.18,,1
+,,Daniel Lucas,Friends of Dan Lucas,Republican,,480.22,,
+,,David Yamamoto,Committee to Elect David Yamamoto,Nonpartisan,2825,5005.33,0.691681,0.396814
+,,Debra Bridges,Debra Bridges for County Commissioner,Nonpartisan,23391.5,38496.08,0.487955,0.610371
+,,Diana L Dickey,Friends of Diana Dickey,Democrat,18441.31,28366.95,0.316024,0.754265
+,,Catherine RB Clark,Clark for City Council,Nonpartisan,125,117.75,1,
+,,David Delsman,Committee to Elect Dave Delsman,Nonpartisan,2755.33,3542.07,,1
+,,Tom B Markgraf,Friends of Tom Markgraf,Nonpartisan,,3360.58,,
+,,Gregory P. Malinowski,Friends for Malinowski,Nonpartisan,82506.67,68608.03,0.241953,0.819411
+,,Lisa M Batey,Lisa Batey for Milwaukie,Nonpartisan,9772.03,9627.04,0.418463,0.522219
+,,Janelle Factora-Wipper,Committee To Retain Judge Wipper,Nonpartisan,20100,20100,1,
+,,Kay M Harrison,Kay Harrison for County Commissioner,Republican,2804.3,2649.8,0.362979,0.637021
+,,Margaret A. Nelson,Friends of Maggie Nelson,Republican,17957.06,17583.68,0.277101,0.729785
+,,Karl Bjorn Erickson,Committee to Elect Karl Erickson,Republican,4938.98,4645.76,0.182898,0.709782
+,,Ryan T Howard,Howard for Oregon,Democrat,25424.68,12382.06,0.227141,0.813174
+,,John L Cook,Citizens to Elect John Cook,Nonpartisan,35560,34850.15,0.582814,0.444894
+,,Rebecca Duncan,Committee to Retain Judge Rebecca Duncan,Nonpartisan,,1642.92,,
+,,Lianne Thompson,Friends of Lianne,Nonpartisan,14543.81,19017.61,0.523256,0.491834
+,,Seth Crawford,Committee to Elect Seth Crawford,Nonpartisan,40833.81,33413.87,0.102733,0.86543
+,,Carl W Wilson,Citizens to Elect Carl Wilson,Republican,82002.41,65830.77,0.0690435,0.834705
+,,Kevin S Talbert,Kevin Talbert for Commissioner,Independent,34205.77,39454.88,0.51162,0.561937
+,,maren lundgren,Committee to Elect Maren Lundgren,Democrat,,250,,
+,,Herb Farber,Friends of Herb Farber Surveyor,Nonpartisan,3705,3755,0.376518,0.623482
+,,Herb Farber,Friends of Herb Farber Surveyor,Nonpartisan,3839.76,3897.64,0.492243,0.507757
+,,Dennis C Roler,Dennis Roler for City Council,Nonpartisan,2822.86,1529,1,
+,,Thuy Tran,Friends for Thuy Tran,Democrat,57994.1,60490.79,0.38764,0.677485
+,,Andrew C Balyeat,Committee to Elect Andy Balyeat,Nonpartisan,61525.85,47035.09,0.310848,0.68977
+,,Christopher A Proudfoot,Friends of Christopher Proudfoot,Nonpartisan,8220.68,8117,0.26241,0.737833
+,,Lacey Beaty,Friends of Lacey Beaty,Nonpartisan,21766.74,19026.76,0.192174,0.723983
+,,Cathleen B. Callahan,Committee to Elect Cathleen Callahan,Nonpartisan,68611.04,52335,0.0427542,0.942717
+,,Matthew J Keenen,Matt Keenen for Council,Nonpartisan,12572.27,4891.62,0.0318161,0.904552
+,,Toni F Webb,Committee to Elect Toni Webb - Josephine County Commissioner,Nonpartisan,16379.7,8200.13,0.116913,0.898557
+,,Bradley Witt,Brad Witt for State Representative,Working Families,302167.86,351088.04,0.0150509,0.865141
+,,James R Rose,Friends of Rick Rose,Republican,28950.22,16437.49,0.0244334,0.987938
+,,Steve Rogers,Committee to elect Steve Rogers,Nonpartisan,4630,4120,0.386609,0.548596
+,,Mike Niehuser,Friends of Mike Niehuser,Nonpartisan,,3022.61,,
+,,Thomas M Dyer,Committee to Elect Tom Dyer,Nonpartisan,2114,2099.48,0.526963,0.473037
+,,James G Needham,We Needham,Nonpartisan,1616.28,1214.62,0.747153,0.456756
+,,Mark E Bennett,Mark Bennett for Baker County,Republican,3510.08,3980.63,0.828816,0.256776
+,,Michael A. Greenlick,Committee to Retain Judge Greenlick,Nonpartisan,1080.49,1825,,1
+,,John Beatty,Committee to Elect John Beatty,Democrat,4697.94,2507.89,0.351585,0.590778
+,,John McCafferty,McCafferty for Josephine County Treasurer,Nonpartisan,3078.9,6527.22,0.267953,0.699568
+,,Locke A. Williams,Williams for Judge,Nonpartisan,,185,,
+,,Lindsay Berschauer,Lindsay for District 26,Republican,5600,5668.37,,1
+,,Lynn Nakamoto,Committee to Elect Judge Lynn R Nakamoto,Nonpartisan,3300,6000,,1
+,,Andy Stahl,Andy Stahl for Lane County Commission,Nonpartisan,44905.71,37115.6,0.290313,0.730435
+,,Brian Van Bergen,Friends of Brian Van Bergen,Nonpartisan,10126.28,12663.98,0.168589,0.886787
+,,Tim Casey,Friends of Tim Casey for Sheriff,Nonpartisan,74563.34,68791.42,0.118016,0.883083
+,,Robert Main,Committee to elect Robert Bob Main Coos County Commissioner,Nonpartisan,24119.69,19158.68,0.138675,0.897685
+,,Peter Buckley,Committee to Re-Elect Peter Buckley,Working Families,389453.11,373167.85,0.0418886,0.847513
+,,Andrew W Petersen,Andrew Petersen For Oregon,Republican,234230.1,134497.39,0.112456,0.898935
+,,Jerry L Wilson,Jerry Wilson for Governor,Progressive,,1087.21,,
+,,Ed W Brockman,Ed Brockman for Lake Oswego City Council,Nonpartisan,3403,3496.94,0.0449603,0.95504
+,,Curtis W Chancler,Committee to Elect Curt Chancler for County Commissioner,Nonaffiliated,12672.19,10894.29,0.0729759,0.886854
+,,Sally Russell,Sally Russell for Bend City Council,Nonpartisan,15050.75,16666.37,0.433539,0.731054
+,,Chris T Boice,Friends of Chris Boice,Nonpartisan,52410,53565.82,0.207032,0.860989
+,,Dallas W Brown,Dallas for Deschutes,Democrat,2475.35,2546.73,0.567634,0.890673
+,,Michael Zarosinski,Committee to elect Michael Zarosinski,Nonpartisan,6829.57,7530.56,0.231343,0.768657
+,,Don Moore,Don Moore for Commissioner,Nonpartisan,14633.58,11410.7,0.0209518,0.979048
+,,Shemia Fagan,Committee to Elect Shemia Fagan,Working Families,1821364.63,606102.869999999,0.0290604,0.945701
+,,Walt Wagner,Crook County Citizens for Walt Wagner,Independent,4591.19,5229.89,0.505428,0.651387
+,,Mark Meek,Friends of Mark Meek,Nonpartisan,16754.32,20065.09,0.111208,0.905227
+,,Rex O. Watkins,Rex Watkins for Governor of Oregon,Republican,,748.7,,
+,,Andy R Erwin,The Committee to Elect Andy Erwin For Judge,Nonpartisan,13963.56,406.44,1,0.333333
+,,Greg Mecklem,Greg Mecklem for County Commission,Nonpartisan,87850.04,6324.94,,1
+,,Patrick M Malone,Friends of Pat Malone,Democrat,21779,33452.98,0.579562,0.330573
+,,James L. (Jim) Thompson,Citizens for Jim Thompson,Republican,362836.42,400227.65,0.0452655,0.736831
+,,Karen A Leach,Friends of Karen Leach,Nonpartisan,4766.83,3122,0.120179,0.923522
+,,Elizabeth A. Jones,Friends of Beth Jones for HD 23,Republican,698.89,,0.298888,0.793959
+,,Dennis Koho,Koho for Keizer,Nonpartisan,300,300,1,
+,,Lorraine M Rafferty,Mae For Governor,Republican,11620.09,8600,0.0248751,0.975125
+,,Bob R Just,Friends of Bob Just,Nonpartisan,34308.53,33614.81,0.245806,0.828355
+,,David G Gwyther,Go Gwyther,Nonpartisan,1865.1,1865.1,1,
+,,William Elfering,Committee to Elect Bill Elfering,Nonpartisan,7662.96,6662.56,0.655202,0.469599
+,,Juan Carlos Valle,Committee to Elect Juan Carlos Valle,Nonpartisan,37407.02,37858.78,0.298795,0.732483
+,,Stephen J McKinney,Committee to Elect Stephen J. McKinney County Commissioner,Nonpartisan,2497,4078.38,0.999199,0.000800961
+,,Ann Lininger,Committee to Elect Ann Lininger,Working Families,14550,27777.42,0.446735,0.725086
+,,Steven H. Frank,Frank4Senate,Democrat,2364,3663.62,0.316109,0.683891
+,,David G Itzen,Committee to Elect David Itzen Commissioner,Nonpartisan,14750.82,17118.52,0.123654,0.872956
+,,Andy Olson,Friends of Andy Olson,Republican,471048.78,496977.31,0.0314541,0.68773
+,,Michael P Powers,Mike Powers for House District 20,Democrat,1074.93,3550.07,,
+,,Paul Savas,Friends of Paul Savas,Nonpartisan,183794.89,213388.74,0.142169,0.852998
+,,Susan Acree,Acree for Assessor,Nonpartisan,2655.34,104.16,,
+,,Thomas Sincic,Friends of Tom Sincic,Democrat,20266.62,18478.13,0.825621,0.341245
+,,Regina Ayars,Committee to Elect Regina Ayars,Nonpartisan,8052.29,7558.52,0.880096,0.119904
+,,Charles Burley,Chuck Burley for State Representative,Republican,,5216.48,,
+,,Eric Squires,Eric Squires for TVWD Position 4,Working Families,6482.5,5129.71,0.521368,0.602423
+,,Teressa L Raiford,Teressa Raiford for Multnomah County Commissioner,Nonpartisan,7593.86,1205.31,0.166853,0.836488
+,,William A Fleenor,Bill Fleenor,Nonpartisan,1864.47,1200,0.0268173,0.973183
+,,Joseph Franklin Morse,Frank Morse for State Senate,Republican,19163.75,54948.88,0.00372304,0.538312
+,,Mike Claassen,Committee to Elect Mike Claassen for Mayor,Nonpartisan,2978.95,3030.13,0.0754717,0.90566
+,,Ken Fahlgren,Ken Fahlgren for Crook County Commissioner,Nonpartisan,3850,2022,0.52,0.64
+,,Natalie Voruz,Natalie Voruz for Fairview City Council,Nonpartisan,1301,1505.38,0.076864,0.923136
+,,Richard D Kellum,Friends of Rich Kellum,Nonpartisan,10065.92,10389.8,0.138708,0.901165
+,,Sally Lou Avera,Committee to Elect Sally Avera Circuit Court Judge,Nonpartisan,,1493.43,,
+,,Douglas P. Breidenthal,Friends of Doug Breidenthal,Republican,51364.19,72670.26,0.243659,0.864481
+,,Brent Barton,Friends of Brent Barton,Working Families,1563400.56,468121.88,0.0114026,0.953213
+,,Brian C. Dretke,Friends to Elect Brian Dretke,Nonpartisan,6650,6955.28,0.0150376,0.909774
+,,Margaret Howe,Committee to Elect Lynn Howe,Working Families,42146.72,7102.9,0.00136811,0.998632
+,,Lynn P Findley,Committee to Elect Lynn Findley Malheur County Commissioner,Republican,5439.96,5229.37,0.347029,0.426943
+,,David Schutt,"Committee to Support David A. Schutt, Lake County District Attorney",Nonpartisan,4089.23,6259.65,0.420617,0.596501
+,,Karen D Bowerman,Karen Bowerman for County Commissioner,Nonpartisan,43314.8,22430.16,0.0702068,0.897033
+,,Steven D. Kramer,Steve Kramer for Wasco County Commissioner #2,Nonpartisan,4392,4392,0.442168,0.717213
+,,Shala M Kudlac,Committee to Elect Shala McKenzie Kudlac,Nonpartisan,5619.92,2480.5,0.0996455,0.928825
+,,peter m shepherd,Committee to Elect Peter Mike Shepherd Sheriff,Nonpartisan,11161,7189.42,0.122749,0.946241
+,,Tom Rohlfing,Tom Rohlfing For Assessor,Nonpartisan,10385,10163.52,0.169309,0.693088
+,,Tony B Page,Committee to Elect Tony Page Douglas County Assessor,Nonpartisan,4556.36,69.48,,
+,,Lance Masters,Masters Election Committee,Nonpartisan,2916.41,,0.152765,0.878757
+,,Mark Labhart,Committee to Elect Mark Labhart,Nonpartisan,5650,5730.25,0.851485,0.227723
+,,Brett Veatch,Citizens for Brett Veatch,Nonpartisan,8520.63,11968.29,0.0352087,0.988264
+,,Bruce Cuff,Friends of Bruce Cuff,Republican,15915.78,15029.85,0.155988,0.784017
+,,Mark Vincent,Friends of Mark Vincent,Nonpartisan,4219,4587.11,0.232202,0.818831
+,,Andrew L Kaza,Friends of Andrew Kaza,Independent,13775,13791,0.24486,0.221308
+,,Rob Patridge,Committee to Elect Rob Patridge,Nonpartisan,59071.36,47265.52,0.307535,0.784657
+,,John Goodhouse,Friends of John Goodhouse,Nonpartisan,63588.57,48897.52,0.182132,0.854865
+,,Ray Kopczynski,ElectRayK,Nonpartisan,2892,2842,1,0.910714
+,,Bill Kennemer,Friends of Bill Kennemer,Independent,294796.96,293855.43,0.0503174,0.778972
+,,Jason Conger,Committee to Elect Jason Conger,Republican,480884.16,435705.16,0.0316527,0.876829
+,,Mark R. Webb,Campaign for Mark Webb,Nonpartisan,6550,5071.31,0.0381679,0.961832
+,,Julie S Young,Friends of Julie Young,Democrat,,17555.66,,
+,,Scott Starr,Friends of Scott Starr,Nonpartisan,450,1376.17,0.285714,
+,,Arleen Curths,Arleen Curths For County Commissioner,Nonpartisan,1800,,,
+,,Jackie Manz,Jackie Manz for City Council,Nonpartisan,5988.78,5668.36,0.232688,0.635953
+,,Bruce D Ludwig,Committee to Elect Bruce Ludwig for Sheriff,Nonpartisan,1306.45,1306.45,0.31111,0.77037
+,,Rick Miller,An Independent Voice for Oregon,Independent,107277.3,42844.92,0.000710216,0.99929
+,,Robert C. Moore,Committee to Elect Bob Moore County Commissioner,Nonpartisan,4410,6989.38,0.240363,0.85034
+,,John Simpson,John Simpson for EWEB Committee,Nonpartisan,,32.8,,
+,,Steven Novick,Novick for Portland,Nonpartisan,334289.69,279416.85,0.261374,0.780062
+,,Gregory Kord,Greg Kord for Governor,Constitution,,450,,
+,,Terry Parker,Terry Parker for Metro,Nonpartisan,7779.89,6300.55,0.0588336,0.941166
+,,Greg Matthews,Friends of Greg Matthews,Democrat,148100.63,177704.78,0.00726141,0.882197
+,,Joann Ernst,Friends of Joann Ernst,Nonpartisan,18730.97,20322.01,0.666332,0.383947
+,,Sandy N Webb,Friends of Sandy Webb,Democrat,4713.55,1618.02,,
+,,Roger A. Hartman,Committee to Elect Roger Hartman Assessor,Nonpartisan,22810.76,23026.07,0.279945,0.787381
+,,J. Mark Lawrence,Lawrence for Judge,Nonpartisan,2212.12,2060.72,0.482796,0.843399
+,,Jerry J. Jackson,Elect Jackson Commissioner,Republican,11121.27,11075.19,0.29589,0.751575
+,,Janice H. Giunta,Committee to Elect Jan Giunta,Nonpartisan,27090,26161.79,0.196013,0.85179
+,,Steven P. McCoid,Friends of Steve McCoid,Nonpartisan,23991.8,23687.07,0.124986,0.905509
+,,Robert J Austin,Friends of Bob Austin,Nonpartisan,4336.74,826.76,,
+,,Harry Price,Price for PUD Board,Nonpartisan,2981.76,4618.91,0.63109,0.390699
+,,Timothy R. Park,Park for Polk DA Committee,Nonpartisan,3000,3000,,1
+,,James Loftus,Friends of James Loftus,Nonpartisan,125,16,1,
+,,Joel Ockunzzi,Joel Ockunzzi for Jackson County Commission,Republican,62059.38,49881.95,0.0637771,0.94613
+,,Jaynee Germond,Committee to Elect Germond,Nonpartisan,9176.4,5457,0.181435,0.818565
+,,Nicholas I Caleb,Friends of Nick Caleb,Nonpartisan,9659.28,7069.38,0.87654,0.202264
+,,Bruce Hanna,Friends of Bruce Hanna,Republican,877758.77,994424.669999999,0.00654961,0.802955
+,,Todd L Kellstrom,Kellstrom for Mayor,Nonpartisan,8618.15,8737.18,0.438609,0.578796
+,,Dwight Coon,Friends of Dwight Coon,Republican,377160.56,200165.48,0.0120267,0.991706
+,,Nathan Hovekamp,Friends of Nathan R. Hovekamp,Working Families,172527.41,71250.04,0.134649,0.89525
+,,Marc A Shelton,Shelton for Commissioner 3,Nonpartisan,500,517.85,0.4,0.6
+,,Joe Laurance,Laurance for Commissioner,Nonpartisan,,418.63,,
+,,Carlotta Collette,Re-Elect Carlotta Collette to Metro,Nonpartisan,44800.47,25386.44,0.374449,0.69497
+,,Mark Callahan,Elect Mark Callahan,Republican,5999.26,5160.01,0.493584,0.550825
+,,Rebecca Lemler,Friends of Becky Lemler,Republican,2817.27,12964.41,,
+,,Allen Amabisca,Allen Amabisca for Washington County,Nonpartisan,132431.14,164002.75,0.274331,0.852399
+,,Corey Falls,Corey Falls for Sheriff,Nonpartisan,53892.22,50208.22,0.377241,0.599445
+,,Marland H. Henderson,Elect Marland Henderson Tigard City Council,Nonpartisan,7340,7040.79,0.264706,0.735294
+,,Mary E Starrett,Friends of Mary Starrett,Nonpartisan,21236.14,7928.76,0.178509,0.86311
+,,James J Nicita,Committee to Elect James J. Nicita,Nonpartisan,,169.92,,
+,,John Kroger,John Kroger for Attorney General,Democrat,553410.73,369419.23,0.0129535,0.235608
+,,Stephen L Bates,Friends of Steve Bates,Nonpartisan,52799.3,45005.44,0.0811598,0.936947
+,,Jim Olney,Committee to Elect Jim Olney,Democrat,5000,,,
+,,Barb Campbell,Barb for Bend,Nonpartisan,16882.98,10604.85,0.135908,0.862658
+,,Jeffrey A Helfrich,Friends of Jeff Helfrich,Nonpartisan,2763.2,625.3,0.158829,0.812956
+,,Timothy R. Volpert,Tim Volpert for Court of Appeals,Nonpartisan,62527.89,87167.74,0.300688,0.698433
+,,Jeff M. Gudman,Gudman for Lake Oswego City Council,Nonpartisan,0.01,239.98,,
+,,Allen Springer,Springer For Commissioner,Nonpartisan,9194.78,9321.2,0.336243,0.802498
+,,Janet M Damon,Friends of Jamie Damon,Democrat,711183.39,417704.79,0.09455,0.845918
+,,Donna L Lane,Donna Lane Committee for City Council,Nonpartisan,1585.6,3807.18,1,0.64
+,,Mary Nolan,Mary Nolan for City Council,Democrat,644653.43,714083.17,0.142083,0.87725
+,,Jeff Kruse,Committee to Elect Jeff Kruse,Republican,185068.11,173213.68,0.0108951,0.684347
+,,Craig Pope,Friends of Craig Pope,Republican,43015.5,35022.23,0.195721,0.833934
+,,Craig Pope,Friends of Craig Pope,Republican,43015.5,35022.23,0.195721,0.833934
+,,Scott Churchill,The Committee to Elect Scott Churchill,Nonpartisan,3264.64,2930,0.156219,0.843781
+,,Peter L Nordbye,Neighbors For Nordbye,Democrat,14636.31,22241.63,1,0.0261218
+,,Seth A Woolley,Seth Woolley for Secretary of State,Pacific Green,2800,,,1
+,,Russell G Boudon,Russell Boudon for Yamhill Co. Clerk,Nonpartisan,1080,1528.26,0.166667,0.833333
+,,William M Shields,Friends of Chip Shields,Democrat,189920.61,197686.05,0.0163393,0.799547
+,,Henry A Balensifer,Committee to Elect Henry Balensifer,Nonpartisan,3992.65,3493.67,0.573935,0.451378
+,,Krisanna H Clark,Clark for Mayor,Nonpartisan,13681.13,8791.31,0.296895,0.773223
+,,Sherrie Sprenger,Friends of Sherrie Sprenger,Libertarian,149395.54,164121.76,0.0476561,0.821481
+,,John Huffman,Committee to Elect John E. Huffman,Republican,240081.83,256707.7,0.0556886,0.753284
+,,Margaret Carter,Friends of Margaret Carter,Democrat,212,424.4,,
+,,Nicholas K Card,Committee to Elect Nick Card,Republican,11964.66,9397.9,0.0561765,0.823445
+,,Bridget Bailey,Bridget Bailey for Wasco County Commissioner,Nonpartisan,28695.16,30459.64,0.288281,0.740234
+,,Riley Hill,Riley Hill for City Council,Nonpartisan,3600,4083.57,0.319444,0.666667
+,,Sheri Moore,Friends of Sheri Moore,Nonpartisan,5750,6354.68,0.368421,0.631579
+,,Warren E Baker Jr.,Elect Skip Baker Committee,Nonpartisan,268.81,,,
+,,Brian D Hodson,Friends of Brian Hodson,Nonpartisan,5009.33,4968.72,0.372671,0.669502
+,,Stephen Shields,Steve Shields 2010,Democrat,17458.81,1963.68,,
+,,Spencer Burton,Spencer Burton for Portland,Nonpartisan,,,,
+,,Mark Gamba,Friends of Mark Gamba,Nonpartisan,2775,2452.63,0.72973,0.459459
+,,Loma M Wharton,Loma Wharton for County of Douglas Clerk Recorder,Nonpartisan,,,,
+,,Susan Brown,The Committee to Elect Susan Brown,Nonpartisan,2310,2647.66,0.675325,0.4329
+,,Deborah Barnes,Friends of Deborah Barnes for Mayor of Milwaukie,Democrat,,159.89,,
+,,James W. Rudolph,Jim Rudolph for Treasurer,Nonpartisan,3221.28,3221.28,0.186261,0.875826
+,,Joseph Gallegos,Friends of Joe Gallegos,Democrat,1417758.13,418181.02,0.0308864,0.941155
+,,Kathryn P Eckman,Kathie Eckman for Bend City Council,Nonpartisan,17750,18050.95,,1
+,,Larry Givens,Committee to re-elect Larry Givens,Nonpartisan,14634.31,3865.59,0.107485,0.919386
+,,Walter R. Miller,Randy Miller for Judge,Nonpartisan,48504.14,33485,0.277541,0.646877
+,,Brad Perkins,Brad Perkins for Metro,Nonpartisan,7292.17,7923.67,0.339405,0.68649
+,,Dawn Lesley,Dawn Lesley for Action,Nonpartisan,135409.38,126393.51,0.405087,0.639759
+,,Thomas J Maginnis,Maginnis for a Change Committee,Republican,400,1468.05,0.5,0.5
+,,John Ludlow,Friends of John Ludlow,Nonpartisan,299855.64,202111.19,0.0557178,0.947816
+,,Frank Skrah,Committee to Elect Frank Skrah Sheriff,Nonpartisan,2660.95,7293.67,0.342716,0.882767
+,,John Swanson,Friends of John Swanson,Nonpartisan,22490.2,20476.75,0.193447,0.834404
+,,Betsy Close,Close Friends PAC,Republican,659558.4,244142.33,0.0176456,0.932091
+,,Scott Jackson,Scott Jackson For Sheriff,Nonpartisan,2054.53,2695.16,1,0.353659
+,,Lawrence George,Larry George for State Senate,Republican,213701.78,204464.5,0.00109468,0.837166
+,,J. Sarah Nebeker,Elect Sarah Nebeker,Nonpartisan,5984.25,8197.72,0.297307,0.27698
+,,Richard J Goddard,Friends of Richard Goddard,Nonpartisan,16183.16,14378.03,0.214534,0.788401
+,,Adriana H Canas,Friends of Adriana Canas,Democrat,24561.37,21573.75,0.304975,0.616692
+,,Sharon Yvette Maxwell,Sharon Maxwell For Portland,Nonpartisan,2832.02,2304.16,0.911724,0.141242
+,,Kevin S Bryck,Elect Kevin Bryck,Nonpartisan,268.39,72.95,,
+,,William C Wehr,Bill Wehr for Damascus City Council,Nonpartisan,3468.43,505,0.0229903,0.97701
+,,Pamela M Ackley,Pam Ackley Campaign Account,Nonpartisan,4912,3812.15,0.63355,0.447883
+,,Lawrence D. Taylor,Elect Larry Taylor,Nonpartisan,5567.88,7410.88,0.840695,0.34422
+,,Gail Whitsett,Gail Whitsett for Oregon,Libertarian,141879.01,152049.52,0.104153,0.779721
+,,Daina Vitolins,Vitolins for Crook County District Attorney,Nonpartisan,5645.36,7.61,,
+,,Frank Orrell,Orrell for Clatsop County Commission,Nonpartisan,5661,4342.3,0.346405,0.711005
+,,Megan D Braze,Elect Megan Braze,Nonpartisan,878.13,648.81,0.145912,0.854088
+,,Fred Messerle,Messerle 4 Commissioner,Nonpartisan,31438.26,34422.54,0.267624,0.805775
+,,Gary L Leif,Committee to Elect Leif for Douglas County Commissioner,Nonpartisan,37993.06,46298.74,0.161194,0.905936
+,,Robert L Sergi,Bob Sergi for Sheriff,Nonpartisan,35345.17,27575.9,0.418049,0.407229
+,,Mike McCabe,Committee to Elect Mike McCabe Crook County Judge,Republican,8832.44,9910.35,0.519017,0.532067
+,,Amanda Fritz,Amanda for Portland 2012,Nonpartisan,513954.89,328039.57,0.309404,0.755028
+,,Jody Carson,Jody Carson for City Council,Nonpartisan,26,182.49,1,
+,,Jody Carson,Jody Carson for City Council,Nonpartisan,26,182.49,1,
+,,Cynthia R Condon,Friends of Cindy Condon,Democrat,1700,30.9,0.117647,0.882353
+,,Scott McAlpine,Scott McAlpine for City Commissioner,Nonpartisan,1633.55,3092.82,0.204328,0.795672
+,,Judith Stiegler,Judy for District 54,Working Families,18839.94,706.91,,1
+,,Casey J Runyan,Runyan For Oregon,Republican,4487.83,2775.43,0.305768,0.757244
+,,Jodie D Barram,Jodie For Deschutes,Democrat,53091.03,47265.58,0.328474,0.748648
+,,Eric Postma,Friends of Eric Postma,Nonpartisan,11371.07,8820,0.126821,0.780056
+,,Richard S Anderson,Friends of Dick Anderson,Nonpartisan,13742.52,16167.35,0.305621,0.752593
+,,Douglas L. Tookey,Judge Doug Tookey for Oregon Court of Appeals,Nonpartisan,3350,10160,0.0740741,0.925926
+,,Jay McAlpin,Keep Judge Jay McAlpin,Nonpartisan,37172.77,32550.73,0.205087,0.439144
+,,Dale N Barrett,Barrett for Clatsop County Commission #5,Nonpartisan,12444,12544.4,0.239776,0.744932
+,,Bob Terry,Re-elect Bob Terry County Commissioner,Nonpartisan,194041.84,237113.72,0.0706735,0.923968
+,,Chuck Riley,Friends of Chuck Riley,Working Families,15351.48,21347.73,0.132561,0.86744
+,,Chuck Riley,Friends of Chuck Riley,Democrat,15351.48,21347.73,0.132561,0.86744
+,,William Curtright,Ames for Oregon,Republican,,8333.82,,
+,,Jennifer Williamson,Friends of Jennifer Williamson,Working Families,437191.39,445501.09,0.11883,0.814596
+,,James B Patrick,James B Patrick for Lincoln County Commissioner,Nonpartisan,2550,2550,,1
+,,Donald Reedy,Committee to Elect Don Reedy,Nonpartisan,6525.6,4743.6,,1
+,,David A. Drotzmann,Dave Drotzmann for Mayor,Nonpartisan,12343.96,11191.26,0.321281,0.747943
+,,Arline J LaMear,LaMear for Mayor,Nonpartisan,14671.05,19356.31,0.547593,0.390879
+,,Rob A Nosse,Friends of Rob Nosse,Democrat,336708.23,244500.18,0.141351,0.819867
+,,Roble Anderson,Roble Anderson for the People,Nonpartisan,2602.89,1728.16,0.655176,0.402453
+,,Steve V Milligan,Milligan for Monmouth,Nonpartisan,2904.06,2407.1,0.869795,0.26041
+,,Russell Axelrod,Committee to Elect Russell Axelrod,Nonpartisan,18122.12,22007.89,0.351897,0.655845
+,,Michael M Taylor,Taylor For Sheriff,Nonpartisan,5809.71,7238.98,0.638221,0.566716
+,,AJ O'Connell,A.J. O'Connell Committee,Nonpartisan,1728.02,2018.25,0.831371,0.40147
+,,Brad Avakian,Committee to Elect Brad Avakian,Democrat,1231478.08,869334.17,0.102585,0.849652
+,,David Russ,David Russ Yamhill County Commissioner 2014,Nonpartisan,400,316.98,1,
+,,"Rocky L. Smith, Jr.",Rocky Smith Campaign,Nonpartisan,1764.95,2167.51,0.901511,0.432923
+,,Jefferson Smith,Forward with Jefferson Smith,Nonpartisan,971736.34,1153189.36,0.288596,0.606886
+,,John Sewell,The Committee to Elect John Sewell,Nonpartisan,6697.54,6265.97,0.633068,0.396793
+,,Scott Barbur,Scott Barbur for Milwaukie,Nonpartisan,5946.79,5964.66,0.125579,0.892379
+,,Wally Hicks,Committee to Elect Wally Hicks,Nonpartisan,96418.88,133029.77,0.030067,0.867716
+,,Andre Wang,Andre for Oregon,Republican,150,7376.5,1,
+,,James Diefenderfer,James Diefenderfer Political Action Committee,Democrat,5252.1,4616,0.44784,0.614992
+,,Mark Wisnovsky,Committee to Elect Mark Wisnovsky,Democrat,,4584.9,,
+,,Richard Levine,Committee to Elect Rick Levine ,Democrat,250,655.06,,1
+,,Kevin H Stine,Kevin Stine for Medford,Nonpartisan,4183.09,4455.95,0.282827,0.741079
+,,Shane T Bemis,Shane Bemis for Mayor,Nonpartisan,100,,1,
+,,Jim Williams,Jim Williams for City Council,Nonpartisan,2026.04,573.96,,
+,,Jean M Martwick,Elect Judge Jean Marie Martwick,Nonpartisan,37123.58,8566.67,0.112784,0.952375
+,,James Bellet,James Bellet for Klamath County Commissioner,Nonpartisan,6619.91,7459.61,0.566417,0.620812
+,,Ted A Tosterud,Ted Tosterud,Nonpartisan,8015.02,7823.74,0.020979,0.979021
+,,Kevin Cameron,Kevin Cameron for Oregon,Republican,451371.27,458628.06,0.122783,0.738732
+,,Dave R Daniel,Friends of Dave Daniel for Sheriff,Nonpartisan,23449.97,21819.05,0.338899,0.71302
+,,Steve Bogart,Steve Bogart for Baker JP,Nonpartisan,3280,3815.19,0.557927,0.564024
+,,Terry Jordan,Friends of Terry Jordan,Nonpartisan,2698.73,3920.36,0.246934,0.753066
+,,Roy P Wright,Roy Wright Campaign,Nonpartisan,11679.44,10587.76,0.573394,0.496942
+,,David Hoppe,Elect Dave Hoppe For DA,Nonpartisan,43942.42,51500.47,0.108893,0.866189
+,,Jules Bailey,Friends of Jules,Working Families,449844.26,431847.55,0.110592,0.791783
+,,Claire Syrett,Claire Syrett for Eugene City Council,Nonpartisan,4455,4014.89,0.536703,0.517449
+,,Douglas Whitsett,Committee to Elect Doug Whitsett,Democrat,178626.32,248417.4,0.0696988,0.695428
+,,Jeffrey A. Caton,Friends of Jeff Caton,Nonpartisan,15240.74,13398.52,0.339507,0.660493
+,,Christine D Walker,Re-Elect Chris Walker Jackson County Clerk,Nonpartisan,100,,,
+,,Philip N Barnhart,Friends of Phil Barnhart,Democrat,192172.1,196987.79,0.14138,0.778012
+,,Brenda M Perry,Committee to Elect Brenda Perry,Nonpartisan,5567.11,8490.17,0.23558,0.782383
+,,John Adam Peterson,Committee to Retain Judge Adam Peterson,Nonpartisan,60731.53,45431.42,0.114581,0.867207
+,,Kevin P. Manske,Elect Manske,Nonpartisan,15391.08,4223.87,0.15431,0.871679
+,,Kelley M Minty Morris,Elect Kelley Minty Morris,Nonpartisan,33477.67,27548.58,0.265001,0.805403
+,,Patrick Iler,Friends of Patrick Iler,Nonpartisan,2500,1195.51,,1
+,,Richard Harisay,Committee to Elect Rich Harisay,Democrat,3401.68,3302.12,0.225113,0.774887
+,,Dennis Linthicum,Friends For Dennis Linthicum,Nonpartisan,589.07,8110.82,0.151204,0.848796
+,,Knute Buehler,Buehler For a United Oregon,Republican,2675870.06,2302595.69,0.117355,0.865056
+,,Douglas Knight,Doug Knight Campaign 2012 Bend City Council,Nonpartisan,13195.02,18297.27,0.0147783,0.9928
+,,Bradd A. Swank,Friends of Bradd Swank,Nonpartisan,2909.48,2892,0.603594,0.471459
+,,Cheryl A. Mueller,Friends of Cheryl Mueller,Republican,5525,1743.11,0.0414747,0.958525
+,,James R Carson,Committee to elect Randy Carson,Nonpartisan,10739.56,3668.32,,1
+,,Suzanne Bonamici,Friends of Suzanne Bonamici,Democrat,1314,50733.42,0.0384615,0.961538
+,,Michael Cowles,Cowles for Lane County Assessor,Nonpartisan,3205,4259.78,0.453682,0.570071
+,,Henry Heimuller,Henry Heimuller for Columbia County Commissioner Committee,Nonpartisan,44907.91,44705.77,0.18415,0.803709
+,,Elizabeth Furse,Friends of Elizabeth Furse,Nonpartisan,174275.1,198096.29,0.23544,0.838851
+,,Timothy McMenamin,McMenamin For Oregon,Republican,69073.34,72389.91,0.148164,0.868808
+,,Jason Myers,Friends of Sheriff Jason Myers,Nonpartisan,300.82,806.5,1,
+,,"Thomas M. Chereck, Jr.",Thomas M. Chereck Jr.,Republican,48.49,46.01,1,
+,,Patricia Roberts,Committee to Elect Patricia Roberts,Nonpartisan,,8.33,,
+,,Tom M Anderson,Elect Tom Anderson,Nonpartisan,1764.94,1563.74,0.428571,0.571429
+,,Rich Rosenthal,Committee to Elect Rich Rosenthal,Nonpartisan,3885,3560.82,0.469496,0.61008
+,,Don Skundrick,Campaign to elect Don Skundrick,Republican,,1905.15,,
+,,Julie Parrish,Friends of Julie Parrish,Republican,604776.31,615441.899999999,0.0199193,0.851456
+,,Wells Ashby,Committee to Elect Wells Ashby,Nonpartisan,114.07,1934.84,1,
+,,David E. Leith,Committee to Retain Judge David Leith,Nonpartisan,150,100,1,
+,,Christopher Gorsek,Friends of Chris Gorsek,Working Families,742667.36,217586.95,0.0367261,0.938749
+,,Dr. Rodney E Orr,Committee to Elect Dr. Rodney E. Orr,Democrat,11239.34,9086.27,,1
+,,Jack A Brown Jr,Jack Brown PAC,Nonpartisan,264.84,264,0.622414,0.377586
+,,Teddy E Keizer,Friends of Teddy Keizer,Democrat,305188.09,310267.74,0.178201,0.824111
+,,Tim Freeman,Friends of Tim Freeman,Democrat,510780.16,539470.98,0.025239,0.844431
+,,Elizabeth (Betsy) Johnson,Committee to Elect Betsy Johnson,Democrat,508268.34,508968.96,0.0163972,0.743672
+,,Kellie Johnson,Kellie Johnson for District Attorney,Nonpartisan,31805,32483.44,0.501188,0.566947
+,,"Vincent Miquel Mulier, Dr.",Dr. Vincent Miquel Mulier,Nonpartisan,7101.01,3916.11,0.586777,
+,,Phil Brady,Phil Brady PUD Committee,Nonpartisan,540,540,0.537037,0.833333
+,,Stephen Griffith,Steve Griffith For Oregon Senate,Republican,,6000,,
+,,Mike Cosgrove,Mike Cosgrove For Grant County Commissioner,Independent,4732.58,,0.00739554,0.992604
+,,Karen Blair,Committee to Elect Karen Blair,Nonpartisan,,672.29,,
+,,Sara A. Gelser,Sara Gelser for State Senate,Democrat,1032109.73,399709.09,0.0653114,0.882648
+,,Natasha K Dunne-Bjornsen,Friends of Natasha Bjornsen,Democrat,2490.49,3468.53,0.466664,0.61867
+,,Keith Haxton,Keith M Haxton Campaign for City Council,Nonpartisan,3961.05,2409.2,0.401132,0.703549
+,,Dennis Jefcoat,Jefcoat For Commissioner,Nonpartisan,6564,8215.53,0.846077,0.153923
+,,Charles A Hales,Charlie Hales for Mayor,Nonpartisan,1754119.46,1682942.08,0.127733,0.834658
+,,Monte Campbell,Campbell for Judge,Nonpartisan,47375.5,7409.07,1,
+,,Daniel N. Shaw,Vote Daniel Shaw dba Vote Dan Shaw,Democrat,2460,1624.39,0.0792683,0.819106
+,,Marvin Sannes,Committee to Elect Marvin Sannes,Republican,2654.27,864.73,,
+,,James L. Klahr,Friends of Jim Klahr,Democrat,4672.91,4727.85,0.430782,0.776711
+,,Thomas McHill,Friends of Tom McHill,Nonpartisan,39.16,406.39,,
+,,John Wolke,Committee to Re-Elect Judge Wolke,Nonpartisan,30700.58,24669.28,0.376,0.608
+,,Joseph L Henry,Committee to elect Joe Henry Mayor,Nonpartisan,5173.69,4275.05,0.14883,0.909156
+,,Robert D. Durham,Committee to Re-Elect Justice Robert D. Durham,Nonpartisan,100,7203.02,1,
+,,Martin C. Stewart,Martin C. Stewart For Jackson County Surveyor,Nonpartisan,675,524.59,1,0.148148
+,,Quintin C Kreth,Q PAC,Democrat,16657.64,15975.65,0.44982,0.55018
+,,Mike S Winters,Elect Mike Winters Sheriff,Nonpartisan,6611.81,10788.51,0.110408,0.692974
+,,John Verbeek,Verbeek for State Senate,Republican,5475.43,757.71,0.0794266,0.920573
+,,John Verbeek,Verbeek for State Senate,Republican,5475.43,757.71,0.0794266,0.920573
+,,"Richard Esterman, A.",Richard Esterman,Republican,,6643,,
+,,Wesley C Soderback,electwes2014.com,Nonpartisan,2113,1634.89,,
+,,Michael Kozak,Kozak Campaign,Nonaffiliated,,393.58,,
+,,Marc W Stauffer,Committee to Elect Marc W. Stauffer,Nonaffiliated,,,,
+,,Michael Spasaro,Friends of Michael P. Spasaro,Libertarian,13419.32,11361.97,0.158354,0.796935
+,,Jason A. Heym,Friends of Jason Heym,Nonpartisan,8542.96,11490.29,0.20381,0.538668
+,,Stephen E Lawrence,Elect Steve Lawrence Mayor Committee,Nonpartisan,2702,2266.97,0.441833,0.646298
+,,Paul D Wells,Paul Wells for SOS,Democrat,13650,,,1
+,,William J Willis,Friends of Bill Willis,Nonpartisan,1204,450,0.506645,0.493355
+,,Sandra (Sandy) F. Toms,Committee to Elect Sandy F. Toms Mayor,Nonpartisan,1034.05,954.05,0.771771,0.228229
+,,MONTE SMITH,Committee to Elect Monte Smith,Nonpartisan,8550,9688.13,0.660819,0.444444
+,,Steven E Rich,Committee to Elect Steve Rich,Nonpartisan,21075.58,15656,0.444312,0.5624
+,,Kerry B Atherton,Elect Kerry Atherton,Democrat,12963.02,18369.15,0.429726,0.701878
+,,William Skip O'Neill,VoteSkipOneill,Nonpartisan,13887.2,24730.5,0.347858,0.724906
+,,Tobias Read,Friends of Tobias Read,Republican,583601.98,578875.65,0.0754716,0.684825
+,,Jeff Reynolds,Friends of Jeff,Nonpartisan,1796.21,485.69,0.119245,0.984446
+,,John Kovash,John Kovash for Mayor,Nonpartisan,,11,,
+,,Donald Abar,Don Abar for Judge,Nonpartisan,38344.1,30945,0.334093,0.503672
+,,Raymond J Eppley,Friends of Ray Eppley,Nonpartisan,8000,7185.76,0.00625,0.95625
+,,Kevin Matthews,Friends of Kevin Matthews,Nonpartisan,112174.96,129098.34,0.210318,0.826301
+,,Brian E Cooke,Cooke4House,Republican,204.2,200,1,
+,,Bob Ekstrom,Elect Bob Ekstrom Committee,Constitution,35345,2879.29,,
+,,Mark S Capell,Mark Capell for Bend City Council,Nonpartisan,25961.7,22533.93,0.129518,0.888778
+,,Mark S Capell,Mark Capell for Bend City Council,Nonpartisan,25961.7,22533.93,0.129518,0.888778
+,,Jean Falbo,Friends of Jean Falbo,Democrat,5760.07,1624.26,1,
+,,Steven Grasty,"Re-elect Steve Grasty, Harney CountyJudge",Nonpartisan,,2299.79,,
+,,Stanley G Primozich,Stan Primozich for Yamhill County Commissioner,Nonpartisan,20318,18361.17,0.387587,0.600108
+,,Cameron S Whitten,Cameron Whitten for Oregon State Treasurer,Progressive,1096.3,1833.67,0.69674,0.30326
+,,Edward C Barbeau,Ed Barbeau for Bend City Council,Nonpartisan,700,304,0.571429,0.642857
+,,Cliff Hutchison,Friends of Cliff Hutchison,Republican,53.72,102.45,,
+,,Linda Neace,Linda Neace for County Clerk,Nonpartisan,7579.18,5172.01,0.467251,0.653362
+,,John L Wood,Elect Chip Wood County Commissioner,Nonpartisan,11467.38,11072,0.408815,0.602584
+,,Kyle Allen,Friends of Kyle Allen,Nonpartisan,12494.51,6488.5,0.173516,0.860899
+,,James Buchal,Buchal for Attorney General,Constitution,38316.22,44348.57,0.297994,0.535245
+,,Margaret L Mahony,Margie Mahony for Justice of the Peace,Nonpartisan,850,6939.47,0.470588,0.470588
+,,Janet Holcomb,Committee to RE-Elect Circuit Judge Janet S. Holcomb,Nonpartisan,,470.52,,
+,,Kyle Markley,Kyle Markley for Oregon,Libertarian,13798.36,20722.27,,1
+,,Kyle Markley,Kyle Markley for Oregon,Libertarian,13798.36,20722.27,,1
+,,Michael Reardon,Reardon for Oregon,Working Families,323259.15,213253.23,0.100046,0.878013
+,,Jody Carson,Jody Carson for City Council,Nonpartisan,3629.09,6814.02,1,0.210731
+,,Jody Carson,Jody Carson for City Council,Nonpartisan,3629.09,6814.02,1,0.210731
+,,Cliff Bentz,Cliff Bentz for State Representative Committee,Republican,336465.57,348126.16,0.0301421,0.818344
+,,Aaron L Brenneman,Committee to Elect Aaron Brenneman,Nonpartisan,14650,14650,0.112628,0.928328
+,,Jo Rae Perkins,Committee to Elect Jo Rae Perkins,Nonpartisan,20,200.04,1,
+,,Alan G. Unger,Unger for Deschutes,Democrat,44219.5,33132.67,0.431911,0.573034
+,,James L Francesconi,Jim Francesconi for County Chair,Nonpartisan,330610.16,326136.34,0.133728,0.735259
+,,David Brock Smith,David Brock Smith Committee to Elect for Curry County Commissioner,Nonpartisan,15840,17875.77,0.139241,0.943354
+,,Anita Yap,Anita Yap for PCC Board,Nonpartisan,15976.48,13370.48,0.821738,0.309197
+,,Carla J Mikkelson,Mikkelson for Commissioner,Democrat,1765,1012.98,0.565217,0.434783
+,,Geri A Hauser,Geri Hauser for Oregon Senate,Democrat,147098.7,51808.8,0.0739983,0.926252
+,,George W Endicott,Committee to Reelect George Endicott Redmond Mayor,Nonpartisan,,17.97,,
+,,Terrence G Taylor,Terrence of Oregon,Republican,2775,2662.67,0.909091,0.272727
+,,Ken Hector,Friends of Ken Hector,Nonpartisan,1091.5,1301.5,0.534884,0.651163
+,,Ian H King,Friends of Ian King,Nonpartisan,15570.51,14320.47,0.0513468,0.306352
+,,Charles Lee,Chuck Lee Campaign Committee,Independent,231860.58,134195.94,0.0559788,0.781688
+,,Jodi Hack,Jodi Hack For Oregon,Republican,114289.73,118116.52,0.0700386,0.886307
+,,Gregory A Taylor,Committee to Elect Greg Taylor,Republican,600,1358.22,0.166667,0.833333
+,,Greg Smith,Committee to Re-Elect Greg Smith,Democrat,187359.2,206658.75,0.0378904,0.847464
+,,Erika L. Hadlock,Committee to Elect Judge Erika Hadlock,Nonpartisan,11575.45,9559,0.39739,0.650059
+,,Scott D Lee,Scott Lee for county commission,Nonpartisan,3732.82,3655.08,0.745769,0.361657
+,,Oscar Martinez,Committee to Elect Oscar Martinez,Nonpartisan,9127.09,9329.6,0.0936456,0.91789
+,,Donald Gavitte,Gavitte for 42,Democrat,42566.55,18637.18,0.293113,0.564533
+,,Brent Smith,Friends to Elect Brent Smith,Republican,7207.62,7711.02,0.222545,0.805203
+,,David Edwards,Friends of David Edwards,Democrat,17582.68,2896.6,,
+,,PATRICK J FLAHERTY,Flaherty For D.A.,Nonpartisan,21164.09,15094.55,0.292416,0.677695
+,,Eric T Bryant,Eric Bryant for District Attorney,Nonpartisan,1867.8,1700,0.0898383,0.959203
+,,William L Rasmussen,Friends of Will Rasmussen,Democrat,19560.2,12210.7,,1
+,,Carol Voisin,Committee to Elect Carol Voisin,Nonpartisan,3110,3989.72,0.83119,0.329582
+,,Mark Garcia,Friends Of Mark Garcia,Nonpartisan,100,,1,
+,,Kathy B. Goss,Kathy Goss for State Representative District 20,Republican,476661.07,419327.77,0.0399007,0.924924
+,,Oscar (Biff) W Traber,Traber for Mayor,Nonpartisan,6179.58,7561.33,0.79315,0.418404
+,,Jerry J Jackson,Committee to Elect Jackson for Commissioner,Republican,12761.05,9572.14,0.46938,0.636421
+,,Gerald Tipton,Tipton for Judge,Nonpartisan,3000,3425.4,,
+,,Tootie Smith,Tootie Smith for Clackamas County Commissioner,Nonpartisan,164294.13,71831.68,0.047442,0.952931
+,,Jon L. Justesen,Justesen For Oregon,Republican,60960.9,38604.64,0.000451016,0.999549
+,,Loretta J. Smith,Committee to Elect Loretta Smith,Nonpartisan,123994.99,130560.35,0.140254,0.822784
+,,Kenneth D Helm,Ken Helm for House District 34,Democrat,194743.75,133537.19,0.0471618,0.933984
+,,William Dalton,Friends of William Dalton,Working Families,37350.58,33040.93,0.263926,0.769053
+,,Jeff M Gudman,Jeffrey Gudman For Lake Oswego Council,Nonpartisan,5540.61,5800.94,0.149944,0.874992
+,,Mary Hull Caballero,Mary Hull Caballero Campaign,Nonpartisan,33295,27325.14,0.334111,0.406393
+,,Mike L Murphy,Murphy for Mayor,Nonpartisan,2.39,756.27,,
+,,Joseph P Shipley,Friends of Joe,Nonpartisan,6978.45,10335.96,0.251906,0.728572
+,,Nathan K. Boddie,Boddie For Bend,Nonpartisan,24557.29,22216.18,0.162644,0.766481
+,,Larry Morgan,Friends of Larry Morgan,Nonpartisan,3714.96,5243.16,0.524398,0.475602
+,,Anne M Schuster,Schuster for Commissioner,Democrat,25391.49,23466.09,0.709969,0.421886
+,,John L Stromberg,STROMBERG4MAYOR,Nonpartisan,9973.69,6234.35,1,0.104712
+,,Andrew Decker,Friends of Andrew Decker,Republican,1432.69,1211.02,0.275483,0.724517
+,,Timothy Powell,Powell4OC,Nonpartisan,2836.82,2465,0.629846,0.589329
+,,Martha Schrader,Friends of Martha Schrader,Democrat,217048.37,254437,0.16491,0.826265
+,,Sal Esquivel,Committee to Elect Sal Esquivel,Republican,181494.83,206339.71,0.0345964,0.834634
+,,William C. Roats,Roats for Bend,Nonpartisan,31557.19,29316.62,0.1567,0.871028
+,,Melvern O'Brien,"Elect Mel O'Brien, Damascus City Council",Nonpartisan,3313.43,500,0.0210073,0.978993
+,,William Middleton,Bill Middleton for Mayor,Nonpartisan,3045.81,3513.44,0.0608036,1
+,,Al Switzer,Committee to Re-elect Al Switzer Klamath County Commissioner,Nonpartisan,8129,9473.56,0.637102,0.537458
+,,Mary Volm,Mary Volm For Portland,Nonpartisan,,80,,
+,,Jason M Ridge,"Jason M Ridge for Beaverton City Council, Position 3",Nonpartisan,,,,
+,,Karylinn Echols,Karylinn Echols for Gresham Committee,Nonpartisan,5150,7085.4,0.320388,0.747573
+,,Daniel B Chriestenson,Friends of Dan Chriestenson,Republican,82349.87,4949.11,0.0103587,0.989641
+,,Carol Pauli,Carol Pauli for Oregon City,Nonpartisan,,562.58,,
+,,Kim Kambak,Kambak for Crook County Judge,Democrat,4008.67,,,
+,,Charlotte D Lehan,Friends of Charlotte Lehan,Nonpartisan,307552.15,286183.71,0.21603,0.736107
+,,Dave Hunt,Friends of Dave Hunt,Working Families,239787.09,289493.92,0.225663,0.750129
+,,John Coopersmith,Friends of John Coopersmith,Nonpartisan,6809.89,3860.13,0.899514,0.100486
+,,Jeri Williams,Jeri Williams For Portland,Nonpartisan,7052.75,4305.04,0.438094,0.227896
+,,John Seley,Jack Seley for Commissioner,Nonpartisan,4683.79,4167.5,0.641898,0.358102
+,,"David L Darnell, Sr",I Will Vote Like a Republican Should Committee,Republican,127677.91,112747.55,0.00233693,0.997663
+,,Peter H Wells,Wells For House Dist 58,Democrat,,439.81,,
+,,Melissa T Cribbins,Melissa Cribbins for County Commissioner,Nonpartisan,23005,22120.15,0.385327,0.740251
+,,Brian R Wilson,Elect Brian Wilson,Nonpartisan,117314.83,113687.93,0.164863,0.870005
+,,Marvin J Hollingsworth,Hollingsworth for State Representative,Democrat,7170.2,12496.81,0.398062,0.529999
+,,Adam T Pelatt,Pelatt For Oregon,Nonpartisan,324.5,270,1,1
+,,Marc San Soucie,San Soucie For Beaverton,Nonpartisan,17100,21270.06,0.0555556,0.877193
+,,Carla Piluso,Friends of Carla Piluso,Democrat,364843.21,146521.59,0.0603764,0.929119
+,,Mitchell A Fummerton,Committee to Elect Mick Fummerton,Nonpartisan,9050,8226.65,0.234568,0.814815
+,,Geri A Hauser,Committee to elect Geri Hauser,Nonpartisan,2154.6,145.4,,
+,,Robert Gardier,Friends of Rob Gardier,Republican,,475.3,,
+,,Benjamin Bloom,Committee to Elect Judge Bloom,Nonpartisan,26362,24803.62,0.331954,0.623145
+,,George (Sonny) W. Yellott,Vote Sonny HD 48,Republican,525.86,185.14,0.237706,0.762294
+,,Dale R Rogers,Friends of Dale R Rogers,Nonpartisan,1160,5981.12,0.439655,0.560345
+,,Katherine Heekin,Committee to Elect Katherine Heekin,Democrat,39142.85,34546.11,0.22108,0.561422
+,,Lisa J Clement,Committee to Elect Lisa Tarabochia Clement,Nonpartisan,4778.45,3989.32,0.602382,0.538951
+,,Jeff Scroggin,Friends of Jeff Scroggin,Democrat,58014.4,64280.8,0.500144,0.498572
+,,Irene Gilbert,Citizens To Elect Irene Gilbert,Republican,8734.86,6965,0.225131,0.840181
+,,Donald B Williams,Friends of Don Williams for Mayor,Nonpartisan,23920.18,22114.69,0.0613548,0.715729
+,,Nicholas Kahl,Committee to Elect Nick Kahl,Democrat,6580.45,9831.01,,1
+,,Larry Tuttle,Larry Tuttle for City Council,Nonpartisan,4250,4250,0.4,0.646154
+,,Larry Ericksen,Ericksen For Oregon,Republican,13227.99,13978.63,0.349928,0.83059
+,,Gary L. Williams,Friends of Gary Williams,Republican,55575.77,45090.02,0.121471,0.879816
+,,Deborah Kafoury,Elect Deborah Kafoury,Nonpartisan,468953.55,517865.44,0.143542,0.839214
+,,Tom Huxley,Tom Huxley For Curry County Commissioner,Nonpartisan,6501,5891.85,0.0661437,0.964621
+,,Tonia L Moro,Committee to Elect Moro,Democrat,20787.96,33338.96,0.391242,0.577059
+,,Benjamin Unger,Ben Unger for Oregon,Working Families,796425.05,481814.83,0.115098,0.89775
+,,Kathleen K. Lamberg,Friends of Kathy Lamberg,Republican,35140.96,35125.68,0.252267,0.827657
+,,David Robinson,Friends of David Robinson,Nonpartisan,36879.83,43672.5,0.117593,0.795381
+,,Jason H Bolen,Jason Bolen For Lebanon City Council,Nonpartisan,2255,1561.24,0.645233,0.354767
+,,Steve Barnett,Steve Barnett for Sheriff,Nonpartisan,3386,3385.88,0.0959835,0.948317
+,,Robert W Patridge,Committee to Elect Rob Patridge,Nonpartisan,1050,1260,0.047619,0.952381
+,,Bill H Baertlein,Committee to Elect Bill Baertlein,Nonpartisan,16137.06,21452.18,0.25637,0.834725
+,,William Spidal,Friends of William Spidal,Nonpartisan,15288.17,6359.25,0.0877701,0.91223
+,,Thomas H Brown,Vote Tom Brown County Commissioner,Nonpartisan,5515,7737.48,0.417249,0.675991
+,,Scott A. Mills,Friends of Scott Mills,Democrat,22836.33,27179.22,0.324513,0.527776
+,,James I Manning Jr.,Elect James I. Manning Jr,Nonpartisan,1890,2058.8,0.534392,0.436508
+,,Karin Power,Friends of Karin Power,Nonpartisan,7653.02,6976.9,0.547574,0.54224
+,,Mark Johnson,Friends of Mark Johnson,Independent,538683.7,513912.769999999,0.0502151,0.836457
+,,Gordon F Challstrom,Oregon United for Gordon,Republican,16279.85,24655,0.0340843,0.972705
+,,Dan Phegley,Get Metro Out of Damascus,Nonpartisan,2611.69,200,0.11864,0.961711
+,,Trish Seiler,Trish Seiler for City Council,Nonpartisan,5237.99,2491.8,0.304659,0.74287
+,,Trent A Tidwell,Friends of Trent Tidwell,Nonpartisan,,783.53,,
+,,Kathleen Campbell,Kathy Campbell for State Rep,Working Families,18366.55,18945.41,0.225494,0.771783
+,,Fred Girod,Friends of Fred Girod,Republican,227925.02,225945.41,0.00364019,0.808359
+,,Agnes Marie Petersen,"Elect Agnes Marie Petersen as Judge, Columbia County Position 3",Nonpartisan,11445,13289.04,0.330544,0.460251
+,,J. C Bennett,Friends of Channing Bennett for Circuit Judge,Nonpartisan,21123,19036.25,0.287507,0.686456
+,,Allen C Parry,Friends of Cam Parry,Nonpartisan,200,100,,
+,,Scott S. Hansen,Friends of Scott Hansen,Republican,597499.82,247178.54,0.0188709,0.971703
+,,wade p fagen,Elect Wade Fagen,Nonpartisan,5130,9556.28,0.295775,0.762911
+,,Donald J Gurney,Don Gurney for County Commissioner,Nonpartisan,17016.8,11807.55,0.315672,0.803731
+,,Tim J Svenson,Elect Tim Svenson Sheriff,Nonpartisan,69848.58,64692.91,0.203653,0.816923
+,,Edward McCoy,Friends of Edward McCoy,Nonpartisan,4400,6755,0.27907,0.744186
+,,Monique Beikman,Committee to Elect Monique Beikman,Nonpartisan,24868.32,22157.88,0.308917,0.661756
+,,Bruce W Riley,Bruce Riley for Sheriff,Nonpartisan,8756.92,8804.26,0.66339,0.446349
+,,Merianne Myers,Myers For Warrenton,Nonpartisan,2858.45,1925.28,0.66153,0.528066
+,,Arnold Poole,People for Poole,Nonpartisan,2093.53,135.47,,
+,,John Lively,"Committee to Elect John Lively for State Representative, Dist. 12",Democrat,371044.09,216758.959999999,0.0363895,0.934327
+,,S. Doak Schulte,The Oregon1st Committee to Elect Doak Schulte,Nonpartisan,380.55,,,
+,,Jacob G Daniels,Daniels for Oregon,Nonpartisan,50999.99,40999.45,0.232448,0.785552
+,,Stanley G. Wallulis,Stanley G. Wallulis,Nonpartisan,3536.88,4016.68,0.0282735,0.971726
+,,Patrick E Starnes,Citizens for Patrick Starnes,Nonaffiliated,1516.96,762.54,0.867234,0.132766
+,,Mark A Henderson,Committee to Retain 5J School Board,Nonpartisan,1780.92,40,0.0650506,0.934949
+,,David A. Asson,David Asson for Sisters City Council,Nonpartisan,,531.5,,
+,,Wayne Krieger,Wayne Krieger for State Representative,Republican,126906.21,167543.56,0.064331,0.753054
+,,Michael W. Sonnleitner,Sonnleitner for Zone 3 PCC,Nonpartisan,9876.15,12302.61,0.31046,0.712422
+,,Mark E. Moseley,Friends of Mark Moseley,Nonpartisan,472,587.22,,1
+,,Lewis Barnes,Friends of Lew Barnes,Republican,44166.39,36684,0.160199,0.873237
+,,Lewis Barnes,Friends of Lew Barnes,Republican,44166.39,36684,0.160199,0.873237
+,,Jack Esp,ESP4STATE,Republican,12422.63,7064.49,0.232158,0.918106
+,,Diana L Dickey,The Committee to Elect Diana Dickey,Nonpartisan,70.99,169.25,,
+,,Thomas Balmer,Re-Elect Supreme Court Justice Tom Balmer Committee,Nonpartisan,4600,6326.44,0.0217391,0.978261
+,,Christopher Bangs,Committee to Elect Chris Bangs,Democrat,9332.5,9458.77,0.411284,0.549469
+,,Caitlin J Mitchel-Markley,Caitlin for Oregon,Libertarian,5784.91,200,,1
+,,Michael H Harrington,Michael Harrington for Oregon,Republican,1502.68,2153.84,0.358492,0.90057
+,,Craig J Melton,Melton4pudboard,Nonpartisan,2440.46,5257.54,0.549265,0.450735
+,,Bradley J Winters,Committee to Re-Elect Brad Winters Lake County Commissioner,Nonpartisan,2904,1837.71,0.540634,0.717631
+,,Julie A Fitzgerald,Friends of Julie Fitzgerald,Nonpartisan,5887.67,8388.23,0.576532,0.654191
+,,Julie Manning,Manning for Mayor,Nonpartisan,,78.3,,
+,,Sean M VanGordon,Committee to Elect Sean VanGordon,Nonpartisan,5176.16,4902.48,0.63987,0.342347
+,,Ruth M Jenks,Ruth M. Jenks 2010 Election,Nonpartisan,,550,,
+,,Herman Baertschiger,Friends of Herman Baertschiger,Republican,171719.55,144731.58,0.0179984,0.820856
+,,Don Allaire,Don Allaire for Sheriff,Nonpartisan,,129.41,,
+,,Samuel Cantrell,Sam Cantrell for Oregon,Republican,1442.17,924.65,0.594996,0.479728
+,,Stephen F Redman,Redman for Council,Nonpartisan,958.92,1027.52,0.68254,0.31746
+,,Jason Atkinson,Friends of Jason Atkinson,Republican,71565.66,104601.76,,0.654551
+,,Don Arbuckle,Friends of Don Arbuckle,Nonpartisan,3489.4,3581.75,0.443125,0.698733
+,,Jack Esp,ESP For County Commissioner ,Republican,3832.35,3717.02,0.382699,0.617301
+,,Wynne J Wakkila,Wynne Wakkila 4 Oregon,Democrat,12442.45,12260.3,0.310433,0.693808
+,,James Pierce,Committee to Elect Jim Pierce,Nonpartisan,9294.41,6410.39,0.492227,0.585949
+,,Larry Rich,Larry Rich for Mayor,Nonpartisan,8926.77,8333.28,0.142269,0.874535
+,,Curt Ankerberg,Curt Ankerberg for Commissioner,Libertarian,8400,8400,,1
+,,Pete Sorenson,Pete Sorenson Committee,Nonpartisan,94446.63,82371.53,0.354149,0.730432
+,,William E Harvey,Harvey Political Campaign,Republican,9604.98,11124.98,0.424259,0.691306
+,,Deborah Gerritzen,Friends of Deborah Gerritzen,Republican,,194.01,,
+,,Lucie C La Bonte,Lucie La Bonte for Commissioner,Nonpartisan,6454.38,8221.99,0.460043,0.240904
+,,Joelle Davis,Friends of Joelle Davis,Democrat,1495,1022.2,0.361702,0.744681
+,,Joelle Davis,Friends of Joelle Davis,Democrat,1495,1022.2,0.361702,0.744681
+,,Thomas B. Cox,Friends of Tom Cox,Republican,15920.34,17587.59,0.355077,0.580025
+,,Kitty Harmon,Friends of Kitty for Oregon,Independent,731.25,9268.75,,
+,,Greg A Lemhouse,Re-Elect Lemhouse Campaign,Nonpartisan,1824,200,0.4,0.72
+,,Richard Wesenberg,Rick Wesenberg for Douglas County District Attorney,Nonpartisan,15332.33,13354.43,0.186158,0.851797
+,,Rae S Blasi,Friends of Sheronne Blasi,Nonpartisan,10302.5,10329.01,0.0766804,0.942732
+,,Jack Landau,Judge Jack Landau for Oregon Supreme Court,Nonpartisan,,4677.15,,
+,,Anthony J Miltich,Miltich 4 Sheriff,Nonpartisan,600,600,0.583333,0.75
+,,Glenn E. Palmer,Re-Elect Glenn E. Palmer for Grant County Sheriff,Nonpartisan,8400,8450,0.113095,0.857143
+,,Vance Day,The Committee to Elect Judge Vance Day,Nonpartisan,1450,4063,0.4,0.6
+,,Tamara K Maygra,Committee to elect Tammy Maygra,Nonpartisan,7717.25,8608.53,0.281904,0.792412
+,,Catherine McKeown,Caddy McKeown for Representative,Democrat,473445.73,361107.69,0.0790779,0.839972
+,,Kelly Lovelace,Committee to Elect Kelly Lovelace,Republican,98452.18,119079.39,0.112464,0.923434
+,,James I Manning Jr,Friends of James 2016,Nonpartisan,11050,5229.69,0.00452489,0.995475
+,,Paul C Warr-King,Committee To Re-Elect Paul Warr-King,Nonpartisan,4557.32,3183.07,0.605031,0.362992
+,,Evan D. White,Evan for Council,Nonpartisan,3237.79,2734,0.798605,0.313282
+,,Anna M. Peterson,Anna Peterson for Mayor,Nonpartisan,65711.46,72428.91,0.446911,0.548337
+,,Deborah Boone,Boone for State Representative,Democrat,142569.51,187581.48,0.0341729,0.803241
+,,Lore D Christopher,Christopher 4 Keizer,Nonpartisan,6750,7824,0.162963,0.866667
+,,Sal J Peralta,Sal Peralta for Commissioner,Nonpartisan,71732.41,47532.19,0.257922,0.758513
+,,Dave S Fuller,Fuller4Sheriff,Nonpartisan,9622.76,6991.16,0.237225,0.752383
+,,Marc T Woodard,Citizens to Re-Elect Marc Woodard,Nonpartisan,8366.91,8042.61,0.336493,0.663507
+,,Brian D. Aaron,Committee to Elect Brian Aaron District Attorney,Nonpartisan,11833.77,12850,0.319149,0.687943
+,,Daniel Benjamin,Friends of Daniel Benjamin,Nonpartisan,17958.76,30243.49,0.0284367,0.982825
+,,H Thomas Andersen,Friends of Tom Andersen,Nonpartisan,5954.6,5114.13,0.596671,0.439996
+,,Gregory H. Macpherson,Friends of Greg Macpherson,Nonpartisan,53036.12,53402.52,0.457462,0.657083
+,,Michael Schaufler,Mike Schaufler for State Representative,Democrat,288493.05,320938.370000001,0.0115819,0.794859
+,,Roy Lindsay,Roy Lindsay For City Council,Nonpartisan,850,844.6,1,0.235294
+,,Rick Lewis,Rick Lewis for Mayor,Nonpartisan,5934.4,2853.15,0.573772,0.573674
+,,Tom Greene,Committee to Elect Tom Greene,Republican,49034.54,28814.83,0.0747778,0.930535
+,,Jose Ortal,Friends of Jose Ortal for East Lane County Commissioner,Nonpartisan,6196.7,6539.74,0.567384,0.540024
+,,Gene Whisnant,Committee to Elect Gene Whisnant,Democrat,208935.91,237175.21,0.0479939,0.666029
+,,Penny Jordan,Committee to Re-elect Penny Eymann Jordan,Nonpartisan,1175.4,1035.17,0.907011,0.0929887
+,,Greg Peterson,Greg Peterson for County Commissioner,Nonpartisan,11100,13602.26,0.234234,0.738739
+,,Joshua J Moriarty,Josh Moriarty for City Council,Nonpartisan,8970,8504.74,0.0334448,0.944259
+,,Virginia Parker,Friends of Timi Parker,Working Families,,819,,
+,,Aaron D Baker,Aaron Baker For State Representative,Republican,5058.7,5254.55,0.303318,0.57573
+,,Douglas R Marteeny,Friends of Doug Marteeny,Nonpartisan,17720,18196.57,0.503817,0.496183
+,,George McCartin,George for Astoria,Nonpartisan,1033.12,1014.22,1,0.570981
+,,Sally L. Avera,Committee to Elect Sally Avera Circuit Court Judge,Nonpartisan,77976.18,53411,0.544419,0.567198
+,,Robert Bruce,Friends of Robert Bruce,Democrat,77997.03,70589.05,0.198171,0.819352
+,,Lewis Barnes,Friends of Lew Barnes,Republican,2665.2,4699.78,,
+,,Lewis Barnes,Friends of Lew Barnes,Republican,2665.2,4699.78,,
+,,Allan Arlow,Judge Arlow for Oregon Supreme Court,Nonpartisan,24113.2,96.8,,
+,,John L Wilson,"John L Wilson, Friends of John Wilson",Nonpartisan,,10,,
+,,Helen L Ying,Friends of Helen Ying,Nonpartisan,50072.25,54261.37,0.592448,0.4831
+,,Matthew E Rowe,Friends of Matt Rowe,Nonpartisan,12365,12835.5,0.167004,0.849171
+,,"Thomas M. Spear, Jr.",Committee to Elect Spear for Judge,Nonpartisan,12296.18,10475.41,0.33791,0.66209
+,,Jennifer L Wheeler,Friends of Jennifer Wheeler,Nonpartisan,42203,31649.96,0.277415,0.813232
+,,Walt Wagner,Crook County Citizens for Walt Wagner,Independent,7345.63,4820,0.593909,0.329949
+,,Andy Duyck,Friends of Andy Duyck,Republican,168792.01,158621.56,0.047536,0.927556
+,,Consuelo Saragoza,Saragoza for Schools,Nonpartisan,5157,5257.5,0.81352,0.34965
+,,Brian P. Bicknell,Committee to Elect Brian P. Bicknell for Sheriff,Nonpartisan,2860,3026.48,0.65035,0.608392
+,,Mark White,Mark White for Portland,Nonpartisan,5448.43,2000.18,0.326779,0.42214
+,,"Angel A Aguiar, Jr.",Friends of Angel Aguiar,Nonpartisan,10142.69,8577.22,0.62335,0.477519
+,,Brady Preheim,Committee to elect Brady Preheim,Nonpartisan,2087,2020,0.185434,0.814566
+,,"William A Waddle, Jr.",Committee To Re-Elect Bill Waddle,Nonpartisan,3053.35,3148,0.192506,0.645995
+,,Kirk O Oakes,Committee to Elect Kirk Oakes Klamath County Commissioner,Nonpartisan,650,600,0.230769,0.769231
+,,Gary Ollerenshaw,Friends of Gary Ollerenshaw,Democrat,5670,4925.77,0.347443,0.679012
+,,Russell Fiddes,Gordon4Oregon,Independent,2366.75,2422.56,0.640866,0.639763
+,,D Flowers,Friends of D Flowers,Republican,,725.75,,
+,,Joseph M Buck,Joe Buck For L.O.,Nonpartisan,22039.66,50259.45,0.328483,0.72368
+,,Sandra Abercrombie,Friends of Sandra Abercrombie,Republican,,1482.09,,
+,,Ed Bowers,Elect Ed Bowers for Commissioner,Nonpartisan,3871.51,2641.21,,1
+,,Richard A. Strathern,Committee to Elect Richard Strathern,Nonpartisan,1000,1031.25,0.2,0.8
+,,Robert A Hooker,Friends of Bob Hooker,Nonpartisan,1234.97,2015.96,0.377593,
+,,James J. Lewis,Jim Lewis For City Council,Nonpartisan,18592.5,20499.99,0.212747,0.811361
+,,Robert Zahrowski,Zahrowski For Commissioner,Nonpartisan,14811.84,12080.39,0.197469,0.778822
+,,Lisa Seales,Lisa Seales for Bend City Council,Nonpartisan,9180,8833.44,0.316406,0.458984
+,,Leroy Blodgett,Committee to Elect Leroy Blodgett County Commissioner,Nonpartisan,2148.3,921.8,0.312703,0.780394
+,,Edwin Caleb,Committee to Re-Elect Ed Caleb,Nonpartisan,,1419.23,,
+,,Lynne Burroughs,Committee for No On 5J Recall,Nonpartisan,4772,5168.89,0.469777,0.0450689
+,,Mark S. Gatlin,Friends of Mark Gatlin,Nonpartisan,1352,1239.55,0.260355,0.369822
+,,Alton Harvey Sr,Citizens to Elect Alton Harvey Sr,Nonpartisan,3855,1679.67,0.23476,0.76524
+,,Andy Long,Andy Long for Sheriff Committee,Nonpartisan,9697.32,4211.23,0.542315,0.54276
+,,William C. Berg,Friends of Bill Berg,Republican,1892.52,702.33,,
+,,Harry Mackin,Committee to Elect Harry Mackin,Nonpartisan,158.34,,,
+,,David V. Brewer,Judge Dave Brewer for Oregon Supreme Court,Nonpartisan,47320,46220,0.188727,0.826107
+,,"Patrick M Farr, Sr",Friends of Pat Farr,Nonpartisan,128024.54,138773.48,0.0591715,0.932089
+,,Scott C Hege,Scott Hege for Wasco County Commission,Nonpartisan,114.63,278.38,,
+,,Kevin Prociw,Friends of Kevin Prociw,Independent,3850,3780.62,0.207792,0.792208
+,,Mark McKelvey,Friends of Mark McKelvey for Coos County Commissioner,Nonpartisan,8297.29,13488.16,0.673637,0.483051
+,,Timothy J. Sercombe,Judge Timothy Sercombe for Oregon Supreme Court Committee,Nonpartisan,66739.81,82512.68,0.486665,0.689766
+,,Ulys J Stapleton,Stapleton for District Attorney,Nonpartisan,2231,7012.62,0.535773,0.803932
+,,Michael Forest,Friends of Mike Forest,Independent,237.5,530.04,,
+,,Nicholas G Wilson,ElectWilson.org,Nonpartisan,8933.79,6736.91,0.190214,0.880894
+,,William J. Tierney,Bill Tierney for City Council,Nonpartisan,8625,8001.88,0.405797,0.669565
+,,Susan M Acree,Committee to Re-Elect Susan Acree County Assessor,Nonpartisan,6178.2,9089.72,0.372332,0.709921
+,,Rob S Solomon,Rob Solomon for Beaverton Council,Nonpartisan,14602.38,13339.49,0.745377,0.254623
+,,Ronald J Broussard,RON BROUSSARD for KLAMATH COUNTY SHERIFF,Nonpartisan,10945.02,8720.89,0.394551,0.601413
+,,Wm. Bruce Shepley,Committee to Elect Bruce Shepley as Judge,Nonpartisan,27355.43,18781.64,0.448527,0.605153
+,,Erin Lagesen,Committee to Retain Judge Lagesen,Nonpartisan,3250,6000,0.4,0.6
+,,Hilda M. Allison,Hilda's Hope for Harney County,Nonpartisan,,2.71,,
+,,Don Gurney,Don Gurney for County Commissioner,Nonpartisan,13961.3,12333.85,0.247874,0.882762
+,,Alan Leiman,Alan Leiman for Judge,Nonpartisan,48167.72,48905,,0.462206
+,,Doug Hunt,Retain Doug Hunt Lincoln County Commissioner,Nonpartisan,11225.4,8785.91,0.50359,0.536498
+,,J. McGregor Colt,Vote Colt,Nonpartisan,8381.88,8664.47,0.389126,0.687844
+,,Jim Kight,Friends of Mayor Jim Kight,Nonpartisan,6773.47,7292.54,0.194444,0.611111
+,,Charles L Huntting,Chuck For Oregon,Libertarian,100,982.05,1,
+,,Scott B Bassett,Elect Scott Bassett,Nonpartisan,9375.81,8344.74,0.684106,0.522935
+,,Brian Boquist,Boquist Leadership Fund,Working Families,279917.05,273020.16,0.00598392,0.772522
+,,Tracie M Heidt,Tracie Heidt for City Council,Nonpartisan,1824,1918.01,0.561404,0.548246
+,,Jessica V Pederson,Friends of Jessica Vega Pederson,Democrat,244097.3,231558.28,0.0727214,0.733358
+,,Mary C Wescott,Friends of Mary Wescott,Nonpartisan,6324.03,5583.14,0.445458,0.692523
+,,Zetty A Nemlowill,Committee to Elect Zetty Nemlowill for Astoria City Council,Nonpartisan,1897.35,1713.66,0.812189,0.37437
+,,Kim Brady,Friends of Kim Brady,Republican,24954,18158,0.108633,0.949568
+,,Allan J. Arlow,Judge Arlow for Oregon,Nonpartisan,4097.91,3767.91,,1
+,,David J McKane,Committee for a Better Keizer,Nonpartisan,3329.82,3453.74,0.416239,0.748935
